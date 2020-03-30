@@ -213,7 +213,7 @@ Thygesen, et al., JACC, 2018)](https://pubmed.ncbi.nlm.nih.gov/30153967)
 ### Treatment Considerations
 + VTE prophylaxis in all hospitalized patients with COVID-19
 + A retrospective study in China of 449 consecutive cases of severe COVID-19 showed benefit of LMWH in patients with high D-Dimer, PT times, and Sepsis Induced Coagulopathy score > 4 ([Tang, et al., Journal of Thrombosis and Haemostasis, 2020](https://pubmed.ncbi.nlm.nih.gov/32220112)) 
-+ Current ISTH proposed guidelines suggest prophylactic anticoagulation with LMWH [(Thachil et al, Journal of Thrombosis and Haemostasis, 2020)](https://doi.org/10.1111/jth.14810)
++ Current ISTH proposed guidelines suggest prophylactic anticoagulation with LMWH ([Thachil et al, Journal of Thrombosis and Haemostasis, 2020](https://doi.org/10.1111/jth.14810))
 
 
 ## Secondary Hemophagocytic Lymphohistiocytosis/Cytokine Release
@@ -222,7 +222,8 @@ Thygesen, et al., JACC, 2018)](https://pubmed.ncbi.nlm.nih.gov/30153967)
 Hyperinflammatory syndrome characterised by macrophage activation and fulminant hypercytokinemia, associated with multiorgan failure and shock.
 
 ### Clinical Presentation
-Fever, splenomegaly, cytopenias, and hyperferritinemia, with progression to ARDS in 54% ([Seguin, et al., Chest, 2016](https://pubmed.ncbi.nlm.nih.gov/26836913))
++ Fever, splenomegaly, cytopenias, and hyperferritinemia, with progression to ARDS in 54% ([Seguin, et al., Chest, 2016](https://pubmed.ncbi.nlm.nih.gov/26836913))
++ May be associated with [Acute Cardiac Injury] ([Zheng, et al., Nat Rev Cardiol, 2020](https://pubmed.ncbi.nlm.nih.gov/32139904))
 
 ### Incidence
 + Unclear incidence/prevalence in COVID-19, although a similar pattern of dysregulated immune response has been reported ([Mehta et al, Lancet, 2020](http://www.ncbi.nlm.nih.gov/pubmed/32192578))
