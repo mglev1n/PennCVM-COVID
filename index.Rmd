@@ -45,6 +45,10 @@ http://accesspoint.uphs.upenn.edu/sites/preparedness/coronavirus
 __UPHS COVID-19 Treatment Guidelines__  
 http://www.uphs.upenn.edu/antibiotics/COVID19.html
 
+__UPHS COVID-19 Resources__
+Including Critical Care Working Group Guidelines
+https://upenn.app.box.com/v/COVID19guides
+
 __Department of Pathology and Laboratory Medicine News__  
 For updates on testing capacity  
 http://pathology.med.upenn.edu/news
@@ -124,8 +128,8 @@ Serum levels of cardiac biomarkers (eg, high-sensitivity cardiac troponin I) abo
 ## Acute Coronary Syndrome
 
 ### Definition
-Acute myocardial injury detected by abnormal cardiac biomarkers in the setting of evidence of acute myocardial ischemia [
-Thygesen, JACC, 2018](https://pubmed.ncbi.nlm.nih.gov/30153967)
+Acute myocardial injury detected by abnormal cardiac biomarkers in the setting of evidence of acute myocardial ischemia [(
+Thygesen, et al., JACC, 2018)](https://pubmed.ncbi.nlm.nih.gov/30153967)
 
 ### Incidence
 + As of 3/2020, case reports of acute coronary syndromes (ACS) (Type 1 MI) in the setting of COVID-19 have yet to be published ([Driggin, et al., JACC, 2020](https://pubmed.ncbi.nlm.nih.gov/32201335)) 
@@ -205,8 +209,9 @@ Myocarditis and pericarditis may be sources of acute cardiac injury based on cas
 + Disseminated intravascular coagulation present in 71.4% (n = 15) of non-survivors vs. 0.6% (n = 1) in survivors ([Tang, et al., Journal of Thrombosis and Haemostasis, 2020](https://pubmed.ncbi.nlm.nih.gov/32073213))
 
 ### Treatment Considerations
-+ VTE prophylaxis
-+ Possible role for empiric anticoagulation in individuals with elevated D-dimer ([Tang, et al., Journal of Thrombosis and Haemostasis, 2020](https://pubmed.ncbi.nlm.nih.gov/32220112))
++ VTE prophylaxis in all hospitalized patients with COVID-19
++ A retrospective study in China of 449 consecutive cases of severe COVID-19 showed benefit of LMWH in patients with high D-Dimer, PT times, and Sepsis Induced Coagulopathy score > 4 ([Tang, et al., Journal of Thrombosis and Haemostasis, 2020](https://pubmed.ncbi.nlm.nih.gov/32220112)) 
++ Current ISTH proposed guidelines suggest prophylactic anticoagulation with LMWH [(Thachil et al, Journal of Thrombosis and Haemostasis, 2020)](https://doi.org/10.1111/jth.14810)
 
 
 ## Secondary Hemophagocytic Lymphohistiocytosis/Cytokine Release
@@ -218,7 +223,7 @@ Hyperinflammatory syndrome characterised by macrophage activation, fulminant hyp
 Fever, splenomegaly, cytopenias, and hyperferritinemia, with progression to ARDS in 54% ([Seguin, et al., Chest, 2016](https://pubmed.ncbi.nlm.nih.gov/26836913))
 
 ### Incidence
-+ Unclear incidence/prevalence in COVID infection, although a similar pattern of dysregulated immune response has been reported ([Mehta et al, Lancet, 2020](http://www.ncbi.nlm.nih.gov/pubmed/32192578))
++ Unclear incidence/prevalence in COVID-19, although a similar pattern of dysregulated immune response has been reported ([Mehta et al, Lancet, 2020](http://www.ncbi.nlm.nih.gov/pubmed/32192578))
 + Similar response identified in SARS-CoV-1 and MERS infections ([Kim et al, J Korean Med Sci, 2016](http://www.ncbi.nlm.nih.gov/pubmed/27709848))
 + Occurs in 3.7-4.3% of patients with sepsis ([Karakike, et al., Frontiers in Immunology, 2020](https://pubmed.ncbi.nlm.nih.gov/30766533))
 
@@ -366,7 +371,6 @@ This section provides guidance from the [ACC](https://www.acc.org/latest-in-card
 + Transcatheter aortic valve replacement (TAVR) in asymptomatic patients (outpatient and inpatient)
 + Percutaneous mitral valve repair (e.g., MitraClip) or replacement (e.g., valve-in-valve) (outpatient)
 + Left atrial appendage closure/occlusion (e.g., Watchman) (outpatient and inpatient)
-t)
 
 #### Cardiac Surgery
 + Coronary artery bypass graft (CABG) surgery for stable ischemic heart disease (outpatient and inpatient)
@@ -530,7 +534,7 @@ __Brigham and Women’s Hospital COVID-19 Critical Care Clinical Guidelines__
 https://www.covidprotocols.org/
 
 # Recent Updates
-List of the 5 most recent updates
+List of the 5 most recent [GitHub](https://github.com/mglev1n/PennCVM-COVID) updates
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 gitsum::parse_log_simple() %>%
   select(Date = date, Update = message) %>%
