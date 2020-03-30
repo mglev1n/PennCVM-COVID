@@ -1,7 +1,4 @@
-This is a minimal bookdown example. Although you see a few files here, only `index.Rmd` is required. All other files are optional, but `bookdown-minimal.Rproj` can make it much easier to build the book.
+# COVID-19 Resources for Penn Cardiologists
+_Michael Levin, MD; Yoav Karpenshif, MD; Megan Burke, MD; Frank E. Silvestry MD on behalf of the Penn Cardiovascular Fellowship program_
 
-The key is the `site` setting in `index.Rmd`. If you want to build the book in RStudio, just click the `Build Book` button in the `Build` pane, otherwise call the function in R:
-
-```r
-bookdown::render_book('index.Rmd', 'all')
-```
+This resource is compiled/updated by cardiology fellows at the Hospital of the University of Pennsylvania, and is designed to provide information to physicians and medical providers within the Division of Cardiovascular Medicine and other interested parties. The information provided here is not intended to be medical advice.

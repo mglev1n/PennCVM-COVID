@@ -3,6 +3,7 @@ title: "COVID-19 Resources for Penn Cardiologists"
 author: "Michael Levin, MD; Yoav Karpenshif, MD; Megan Burke, MD; Frank E. Silvestry MD on behalf of the Penn Cardiovascular Fellowship program"
 date: "__Last updated:__ `r Sys.Date()`"
 site: bookdown::bookdown_site
+github-repo: mglev1n/PennCVM-COVID
 documentclass: book
 cover-image: "images/SARS-CoV-2_without_background.png"
 apple-touch-icon: "images/SARS-CoV-2_without_background.png"
@@ -14,7 +15,7 @@ output:
     config:
       sharing:
         facebook: yes
-        github: no
+        github: yes
         twitter: yes
         linkedin: no
         weibo: no
@@ -23,6 +24,10 @@ output:
         all: ['facebook', 'twitter']
   #bookdown::pdf_book: default
 ---
+```{r include=FALSE}
+library(tidyverse)
+```
+
 
 # Preface {-}
 ```{r echo=FALSE, fig.align='center'}
@@ -436,4 +441,16 @@ https://www.massgeneral.org/news/coronavirus/treatment-guidances
 
 __Brigham and Women’s Hospital COVID-19 Critical Care Clinical Guidelines__  
 https://www.covidprotocols.org/
+
+# Recent Updates
+```{r echo=FALSE}
+system("git log --pretty=format:'%ad %s' --date=short", intern = TRUE) %>% 
+  unlist(strsplit(., "")) %>%
+  as_tibble() %>%
+  rename(Date = value) %>%
+  mutate(Date = str_replace(Date, "\\s", "|")) %>%
+  separate(Date, into = c("Date", "Update"), sep = "\\|") %>%
+  knitr::kable()
+```
+
 
