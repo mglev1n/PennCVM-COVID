@@ -11,6 +11,7 @@ apple-touch-icon-size: 120
 favicon: "images/SARS-CoV-2_without_background.png"
 output:
   bookdown::gitbook:
+    toc_depth: 4
     number_sections: false
     config:
       sharing:
@@ -310,6 +311,92 @@ Fever, splenomegaly, cytopenias, and hyperferritinemia, with progression to ARDS
 + ECG (baseline QTc)
 + Consider telemetry
 
+## Cardiovascular Testing Considerations
+
+### Deferral of Non-urgent Testing/Procedures
+This section provides guidance from the [ACC](https://www.acc.org/latest-in-cardiology/articles/2020/03/24/09/42/general-guidance-on-deferring-non-urgent-cv-testing-and-procedures-during-the-covid-19-pandemic) regarding non-urgent cardiovascular testing and procedures that may be deferred, by specialty.
+
+#### Stress Testing and Imaging
++ Stress testing (ECG alone or with imaging [echocardiography, radionuclide, MRI]) for suspected stable ischemic heart disease (outpatient and inpatient)
++ Cardiopulmonary exercise testing for functional assessment (outpatient and inpatient)
++ Transthoracic echocardiograms (outpatient)
++ Transesophageal echocardiograms in stable patients (outpatient and inpatient)
++ Cardiovascular computed tomography (CT) (outpatient)
++ Cardiovascular magnetic resonance imaging (MRI) (outpatient)
++ Nuclear cardiac imaging (SPECT and PET) (outpatient and inpatient)
++ Vascular imaging for asymptomatic carotid artery disease (outpatient and inpatient)
++ Vascular imaging for claudication (outpatient and inpatient)
++ Imaging for screening purposes (e.g., coronary calcium score, screening ultrasound to assess for an AAA) (outpatient and inpatient)
+
+#### Electrophysiology
++ In-person cardiovascular implantable electronic device (CIED) checks/interrogations (outpatient) and absent new cardiovascular symptoms (inpatient)
++ Cardioversions in stable, asymptomatic patients (outpatient and inpatient)
++ Tilt table test (outpatient and inpatient)
++ Implantable loop recorder (ILR) implant absent cryptogenic stroke (outpatient and inpatient)
++ Pacemaker implant for stable sinus node dysfunction or second-degree AV block without syncope (outpatient and inpatient)
++ ICD placement for primary prevention in stable, low-risk patients (outpatient)
++ Upgrade to cardiac resynchronization therapy (CRT) in stable patients (outpatient and inpatient)
++ Atrial fibrillation ablation in stable patients (e.g., without refractory heart failure) (outpatient and inpatient)
++ Atrial flutter ablation in stable patients (e.g., without refractory heart failure) (outpatient and inpatient)
++ SVT ablation in stable patients (outpatient and inpatient)
++ PVC ablation in stable patients (outpatient and inpatient)
++ Left atrial appendage closure/occlusion (e.g., Watchman) (outpatient and inpatient)
++ Lead extraction unrelated to infection or symptomatic lead failure (outpatient and inpatient)
+
+#### Heart Failure/Transplant
++ Cardiopulmonary exercise testing for functional assessment (outpatient and inpatient)
++ Right heart catheterization (outpatient)
++ Surveillance right heart catheterization and cardiac biopsy post cardiac transplant (outpatient)
++ Surveillance coronary angiography post cardiac transplant (outpatient)
++ Hemodynamic monitor implant (e.g. CardioMEMS) (outpatient and inpatient)
+
+#### Interventional Cardiology
++ Coronary angiography ± intervention for stable ischemic heart disease (outpatient and inpatient)
++ Coronary angiography ± intervention for non-cardiac preoperative evaluation (outpatient and inpatient)
++ Chronic total occlusion (CTO) intervention (outpatient and inpatient)
++ Coronary brachytherapy (outpatient and inpatient)
++ Surveillance coronary angiography post cardiac transplant (outpatient)
++ Right heart catheterization (outpatient)
++ Pulmonary angiography (outpatient)
++ Balloon pulmonary angioplasty for CTEPH (outpatient and inpatient)
++ Renal angiography ± intervention (outpatient and inpatient)
+
+#### Structural Heart Disease
++ PFO/ASD closure (outpatient and inpatient)
++ Transcatheter aortic valve replacement (TAVR) in asymptomatic patients (outpatient and inpatient)
++ Percutaneous mitral valve repair (e.g., MitraClip) or replacement (e.g., valve-in-valve) (outpatient)
++ Left atrial appendage closure/occlusion (e.g., Watchman) (outpatient and inpatient)
+t)
+
+#### Cardiac Surgery
++ Coronary artery bypass graft (CABG) surgery for stable ischemic heart disease (outpatient and inpatient)
++ Valve repair/replacement in asymptomatic patients (outpatient and inpatient)
++ Repair of asymptomatic ascending aortic aneurysm (<5.5 cm) among those without additional risk factors (e.g., family history) (outpatient and inpatient)
++ Surgical treatment of atrial fibrillation (including convergent procedure) (outpatient)
+
+#### Vascular
++ Upper extremity angiography ± intervention (outpatient and inpatient)
++ Lower extremity angiography ± intervention for claudication (outpatient and inpatient)
++ Lower extremity surgical revascularization for claudication (outpatient and inpatient)
++ Lower extremity angiography ± intervention for non-healing wounds (without impending limb/tissue loss) (outpatient and inpatient)
++ Lower extremity surgical revascularization for non-healing wounds (without impending limb/tissue loss) (outpatient and inpatient)
++ Carotid angiography ± intervention in asymptomatic patients (outpatient and inpatient)
++ Transcarotid artery revascularization (TCAR) or other surgical revascularization in asymptomatic patients (outpatient and inpatient)
++ Renal angiography ± intervention (outpatient and inpatient)
++ Creation of dialysis access (AV fistula) (outpatient)
++ Repair of asymptomatic ascending aortic aneurysm (<5.5 cm) among those without additional risk factors (e.g., family history) (outpatient and inpatient)
++ Endovascular or open treatment of an unruptured abdominal aortic aneurysm (AAA) ≤5.5 cm (outpatient and inpatient)
++ Endovascular or open treatment of an unruptured thoracic aortic aneurysm (AAA) ≤5.5 cm (outpatient and inpatient)
++ Venous ablation (outpatient and inpatient)
++ Venous stenting (outpatient and inpatient)
+
+#### Rehabilitation
++ Cardiac rehabilitation, phase 1 (inpatient) and 2/3 (outpatient)
++ Pulmonary rehabilitation (outpatient)
++ Vascular rehabilitation (outpatient)
+
+
+
 # Clinical Trials
 __ClinicalTrials.gov__  
 List of all COVID-19 clinical trials  
@@ -443,13 +530,13 @@ __Brigham and Women’s Hospital COVID-19 Critical Care Clinical Guidelines__
 https://www.covidprotocols.org/
 
 # Recent Updates
-```{r echo=FALSE}
-system("git log --pretty=format:'%ad %s' --date=short", intern = TRUE) %>% 
-  unlist(strsplit(., "")) %>%
-  as_tibble() %>%
-  rename(Date = value) %>%
-  mutate(Date = str_replace(Date, "\\s", "|")) %>%
-  separate(Date, into = c("Date", "Update"), sep = "\\|") %>%
+List of the 5 most recent updates
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+gitsum::parse_log_simple() %>%
+  select(Date = date, Update = message) %>%
+  filter(!str_detect(Update, "Merge")) %>%
+  arrange(desc(Date)) %>%
+  top_n(5) %>%
   knitr::kable()
 ```
 
