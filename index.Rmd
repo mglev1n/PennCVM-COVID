@@ -453,4 +453,3 @@ system("git log --pretty=format:'%ad %s' --date=short", intern = TRUE) %>%
   knitr::kable()
 ```
 
-
