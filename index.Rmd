@@ -46,7 +46,7 @@ __UPHS COVID-19 Treatment Guidelines__
 http://www.uphs.upenn.edu/antibiotics/COVID19.html
 
 __UPHS COVID-19 Resources__
-Including Critical Care Working Group Guidelines
+Including Critical Care Working Group Guidelines  
 https://upenn.app.box.com/v/COVID19guides
 
 __Department of Pathology and Laboratory Medicine News__  
@@ -96,20 +96,21 @@ https://www.asecho.org/covid-19-resources/
 ## Acute Cardiac Injury
 
 ### Definition
-Serum levels of cardiac biomarkers (eg, high-sensitivity cardiac troponin I) above the 99th percentile upper reference limit, or new electrocardiographic and echocardiographic abnormalities ([Huang, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/31986264/); [Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/))  
++ Serum levels of cardiac biomarkers (eg, high-sensitivity cardiac troponin I) above the 99th percentile upper reference limit, or new electrocardiographic and echocardiographic abnormalities ([Huang, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/31986264/); [Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/))  
++ May occur directly as consequence of virus-associated [Acute Coronary Syndrome], [Arrhythmia], [Myo/Pericarditis], or [Cytokine Release][Secondary Hemophagocytic Lymphohistiocytosis/Cytokine Release], or indrectly associated with the combination of acute illness and underlying hypertension, coronary artery disease, heart failure, chronic kidney disease, or diabetes [(Bonow, et al. JAMA Cardiology 2020)](https://pubmed.ncbi.nlm.nih.gov/32219362)
 
 ### Diagnostics
 + Cardiac troponin, NT-proBNP  
 + ECG  
 + Consider limited echocardiogram  
-+ Consider measurement of inflammatory markers to evaluate hyperinflammation (Ferritin, iL-6, LDH, D-dimer)  
++ Consider measurement of inflammatory markers to evaluate hyperinflammation (Ferritin, IL-6, LDH, D-dimer)  
 
 
 ### Incidence
-+ 12% overall, 31% ICU, 4% non-ICU ([Huang, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/31986264/))
-+ 17% overall ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/))
-+ 19.7% overall ([Shi, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32211816))
-+ 27.8% (n = 52) ([Guo, et al., JAMA Cardiology, 2020](http://jamanetwork.com/article.aspx?doi=10.1001/jamacardio.2020.1017))
++ 12% overall, 31% ICU, 4% non-ICU (among 41 patients total) ([Huang, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/31986264/))
++ 17% overall (among 191 patients total) ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/))
++ 19.7% overall (among 416 patients overall) ([Shi, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32211816))
++ 27.8% (n = 52) (among 187 patients overall) ([Guo, et al., JAMA Cardiology, 2020](http://jamanetwork.com/article.aspx?doi=10.1001/jamacardio.2020.1017))
 
 ### Prognostic Implications
 + Associated with increased utilization of noninvasive ventilation (38 [46.3%] vs 13 [3.9%]; P < .001) and invasive mechanical ventilation (18 [22.0%] vs 14 [4.2%]; P < .001) ([Shi, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32211816))
@@ -181,7 +182,8 @@ Thygesen, et al., JACC, 2018)](https://pubmed.ncbi.nlm.nih.gov/30153967)
 ## Myo/Pericarditis
 
 ### Incidence
-Myocarditis and pericarditis may be sources of acute cardiac injury based on case reports, overall incidence unclear ([Ruan et al, Intensive Care Med, 2020](http://www.ncbi.nlm.nih.gov/pubmed/32125452); [Zeng et al, Preprints, 2020](http://dx.doi.org/10.20944/preprints202003.0180.v1); [Hu et al, Eur Heart J, 2020](http://www.ncbi.nlm.nih.gov/pubmed/32176300); [Inciardi, et al., JAMA Cardiology 2020](https://pubmed.ncbi.nlm.nih.gov/32219357))
++ Myocarditis and pericarditis may be sources of acute cardiac injury based on case reports, overall incidence unclear ([Ruan et al, Intensive Care Med, 2020](http://www.ncbi.nlm.nih.gov/pubmed/32125452); [Zeng et al, Preprints, 2020](http://dx.doi.org/10.20944/preprints202003.0180.v1); [Hu et al, Eur Heart J, 2020](http://www.ncbi.nlm.nih.gov/pubmed/32176300); [Inciardi, et al., JAMA Cardiology 2020](https://pubmed.ncbi.nlm.nih.gov/32219357))
++ No clear evidence of myocarditis on limited cardiac biopsy [(Xu, et al., Lancet Respir Med, 2020)](https://pubmed.ncbi.nlm.nih.gov/32085846)
 
 ### Diagnostics
 + Cardiac troponin, NT-proBNP
@@ -217,7 +219,7 @@ Myocarditis and pericarditis may be sources of acute cardiac injury based on cas
 ## Secondary Hemophagocytic Lymphohistiocytosis/Cytokine Release
 
 ### Definition
-Hyperinflammatory syndrome characterised by macrophage activation, fulminant hypercytokinemia, associated with multiorgan failure and shock
+Hyperinflammatory syndrome characterised by macrophage activation and fulminant hypercytokinemia, associated with multiorgan failure and shock.
 
 ### Clinical Presentation
 Fever, splenomegaly, cytopenias, and hyperferritinemia, with progression to ARDS in 54% ([Seguin, et al., Chest, 2016](https://pubmed.ncbi.nlm.nih.gov/26836913))
@@ -236,7 +238,7 @@ Fever, splenomegaly, cytopenias, and hyperferritinemia, with progression to ARDS
 
 ### Treatment Considerations
 + Care typically supportive
-+ Consideration of IVIG, steroids (may be associated with worsened lung injury), enrollment in clinical trial (or off-label use) of cytokine blockade (IL-6 [eg. tocilizumab, sarilumab] or IL-1 antagonists [eg. anakinra])
++ Consideration of IVIG, steroids (may be associated with worsened lung injury), enrollment in clinical trial (or off-label use) of cytokine blockade (IL-6 antagonists [eg. tocilizumab, sarilumab] or IL-1 antagonists [eg. anakinra])
 
 
 ## Cardiomyopathy/Heart Failure/Cardiogenic Shock
@@ -426,6 +428,7 @@ Curtis, et al., JAMA, 2020
 http://jamanetwork.com/article.aspx?doi=10.1001/jama.2020.4894
 
 
+
 # Journal Resources
 __New England Journal of Medicine (NEJM)__  
 https://www.nejm.org/coronavirus
@@ -484,6 +487,8 @@ https://twitter.com/jburnmurdoch
 
 Hashtag #IDTwitter
 
+
+
 # Miscellaneous Notes/Resources
 __State-by-State Projections of Hospital Resource Use__  
 University of Washington Institute for Health Metrics and Evaluation  
@@ -533,14 +538,16 @@ https://www.massgeneral.org/news/coronavirus/treatment-guidances
 __Brigham and Women’s Hospital COVID-19 Critical Care Clinical Guidelines__  
 https://www.covidprotocols.org/
 
+
+
 # Recent Updates
-List of the 5 most recent [GitHub](https://github.com/mglev1n/PennCVM-COVID) updates
+List of the 10 most recent [GitHub](https://github.com/mglev1n/PennCVM-COVID) updates
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 gitsum::parse_log_simple() %>%
   select(Date = date, Update = message) %>%
   filter(!str_detect(Update, "Merge")) %>%
   arrange(desc(Date)) %>%
-  top_n(5) %>%
+  slice(1:10) %>%
   knitr::kable()
 ```
 
