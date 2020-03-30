@@ -444,12 +444,25 @@ https://www.covidprotocols.org/
 
 # Recent Updates
 ```{r echo=FALSE}
+<<<<<<< HEAD
 system("git log --pretty=format:'%ad %s' --date=short", intern = TRUE) %>% 
   unlist(strsplit(., "")) %>%
   as_tibble() %>%
   rename(Date = value) %>%
+=======
+tribble(
+  ~Date,
+  system("git log --pretty=format:'%ad %s' --date=short", intern = TRUE)) %>%
+>>>>>>> 11d7ce7935c95930849eb2c4b324f2facd3a7c03
   mutate(Date = str_replace(Date, "\\s", "|")) %>%
   separate(Date, into = c("Date", "Update"), sep = "\\|") %>%
   knitr::kable()
 ```
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> 11d7ce7935c95930849eb2c4b324f2facd3a7c03
+
+<!--chapter:end:index.Rmd-->
 
