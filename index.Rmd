@@ -12,6 +12,8 @@ apple-touch-icon-size: 120
 favicon: "images/SARS-CoV-2_without_background.png"
 output:
   bookdown::gitbook:
+    includes:
+      in_header: [google-analytics.html]
     toc_depth: 4
     number_sections: false
     config:
