@@ -2,7 +2,7 @@
 title: "COVID-19 Resources for Penn Cardiologists"
 author: "Michael Levin, MD; Yoav Karpenshif, MD; Megan Burke, MD; Frank E. Silvestry MD on behalf of the Penn Cardiovascular Fellowship program"
 description: "A compliation of COVID-19 resources assembled by cardiology fellows at the Hospital of the University of Pennsylvania"
-date: "__Last updated:__ `r Sys.Date()`"
+date: "__Last updated:__ `r Sys.Date()` (see [Recent Updates])"
 site: bookdown::bookdown_site
 github-repo: mglev1n/PennCVM-COVID
 documentclass: book
@@ -46,7 +46,7 @@ http://accesspoint.uphs.upenn.edu/sites/preparedness/coronavirus
 __UPHS COVID-19 Treatment Guidelines__  
 http://www.uphs.upenn.edu/antibiotics/COVID19.html
 
-__UPHS COVID-19 Resources__
+__UPHS COVID-19 Resources__  
 Including Critical Care Working Group Guidelines  
 https://upenn.app.box.com/v/COVID19guides
 
@@ -475,6 +475,9 @@ https://www.ahajournals.org/coronavirus
 
 __JACC Journals__  
 http://www.onlinejacc.org/content/covid-19-clinical-guidance-global-cardiovascular-clinicians
+
+__medRxiv and bioRxiv Preprints__  
+https://connect.medrxiv.org/relate/content/181
 
 
 
