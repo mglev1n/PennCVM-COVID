@@ -569,7 +569,7 @@ https://www.covidprotocols.org/
 
 
 # Recent Updates
-List of the 10 most recent [GitHub](https://github.com/mglev1n/PennCVM-COVID) updates
+List of the 10 most recent [GitHub](https://github.com/mglev1n/PennCVM-COVID) updates ([List of all updates](https://github.com/mglev1n/PennCVM-COVID/commits/))
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 gitsum::parse_log_simple() %>%
   select(Date = date, Update = message) %>%
