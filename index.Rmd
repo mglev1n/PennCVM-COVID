@@ -314,7 +314,7 @@ See reviews: [Vaduganathan et al., NEJM, 2020](https://www.nejm.org/doi/full/10.
 
 #### Potential Harms
 + SARS-CoV-1 binds to the COX-2 promotor, increasing expression of this enzyme. ([Yan, et al., Int. J. Biochem. Cell Biol., 2006](https://science.sciencemag.org/lookup/external-ref?access_num=16546436&link_type=MED&atom=%2Fsci%2F367%2F6485%2F1434.1.atom)). Because PGE2 may inhibit coronavirus replication ([Amici et al., Antivir. Ther., 2006](https://science.sciencemag.org/lookup/external-ref?access_num=17302372&link_type=MED&atom=%2Fsci%2F367%2F6485%2F1434.1.atom)), there is theoretical concern that NSAID-mediated decreases in PGE2 may increase risk of COVID-19.
-+ NSAIDs may incrase risk of cardiovascular events
++ NSAIDs may increase risk of cardiovascular events, gastrointestinal ulcer/bleeding, and acute kidney injury, among others
 
 #### Potential Benefits
 + Indomethacin may block coronavirus RNA synthesis independent of COX inhibition ([Sander et al., Front. Physiol, 2017](https://science.sciencemag.org/lookup/external-ref?access_num=28261111&link_type=MED&atom=%2Fsci%2F367%2F6485%2F1434.1.atom))
