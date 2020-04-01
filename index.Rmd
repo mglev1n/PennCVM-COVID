@@ -75,7 +75,7 @@ May occur directly as consequence of virus-associated [Acute Coronary Syndrome],
     
 ### Treatment Considerations
   + Supportive care
-  + If associated with concomittant hyperinflammation/cytokine storm/secondary HLH, consider anti-IL6 or anti-IL1 therapy (see [Secondary Hemophagocytic Lymphohistiocytosis/Cytokine Release])
+  + If associated with concomittant [hyperinflammation/cytokine storm/secondary HLH][Secondary Hemophagocytic Lymphohistiocytosis/Cytokine Release], consider anti-IL6 or anti-IL1 therapy
 
 
 ## Acute Coronary Syndrome
@@ -219,7 +219,7 @@ Hyperinflammatory syndrome characterised by macrophage activation and fulminant 
 
 #### Stable/Chronic
 + Goal-directed medical therapy with beta-blockade, ACE/ARB/ARNI, mineralocorticoid receptor antagonist
-+ [ESC](https://www.escardio.org/Councils/Council-on-Hypertension-(CHT)/News/position-statement-of-the-esc-council-on-hypertension-on-ace-inhibitors-and-ang) and [HFSA/ACC/AHA](https://professional.heart.org/professional/ScienceNews/UCM_505836_HFSAACCAHA-statement-addresses-concerns-re-using-RAAS-antagonists-in-COVID-19.jsp) recommend continuation of ACE/ARB/ARNI. See [Medication Considerations]
++ [ESC](https://www.escardio.org/Councils/Council-on-Hypertension-(CHT)/News/position-statement-of-the-esc-council-on-hypertension-on-ace-inhibitors-and-ang) and [HFSA/ACC/AHA](https://professional.heart.org/professional/ScienceNews/UCM_505836_HFSAACCAHA-statement-addresses-concerns-re-using-RAAS-antagonists-in-COVID-19.jsp) recommend continuation of ACE/ARB/ARNI. See [Cardiovascular Medication Considerations]
 
 #### Unstable/Cardiogenic Shock
 + Consider invasive hemodynamic monitoring with arterial and central venous catheters
@@ -270,12 +270,12 @@ DiagrammeR("graph TB;
            A(<strong>COVID+ or PUI</strong>)---B[<strong>No];
            B-->C[Proceed with routine echo workflow];
            A---D[<strong>Yes];
-           D-->E{<center>Provider can<br><b>perform</b><br>POCUS}
+           D-->E{<center>Provider can<br><b><i>perform</i></b><br>POCUS}
            E---F[<strong>Yes]
            E---G[<strong>No]
-           F-->H{<center>Provider can <br><b>interpret</b><br>POCUS}
+           F-->H{<center>Provider can <br><b><i>interpret</i></b><br>POCUS}
            H---I[<strong>Yes]
-           I-->J[Provider <b>performs</b> and <b>interprets</b> POCUS in real-time]
+           I-->J[Provider <b><i>performs</i></b> and <b><i>interprets</i></b> POCUS in real-time]
            H---K[<strong>No]
            K-->L[<strong>Provider calls echo lab:</strong><br>1. Echo lab guides image acquision and interpretation in real-time<br><b>OR</b><br>2. Sonographer performs exam]
            G-->L
@@ -313,7 +313,10 @@ Cardiac biomarkers in general refer to troponin, however in specific clincal cir
   + Consider serial evaluation every 2-3 days in hospitalized patients for prognostic purposes  
 + Repeat cardiac biomarker testing if concern for new cardiovascular complication  
   + Follow institution-specific guidelines with regard to frequency and duration of testing for evaluation of conditions like [Acute Coronary Syndrome] or [Cardiomyopathy][Cardiomyopathy/Heart Failure/Cardiogenic Shock], which may depend on available testing (eg. high-sensitivity troponin, troponin-T vs. troponin-I, BNP vs. NT-proBNP, etc.)
-  
+  + Rate-of-change may be useful in differentiating [Acute Coronary Syndrome] from other etologies of [Acute Cardiac Injury] (eg. secondary to [Myo/Pericarditis]
+ or [Cardiomyopathy/Heart Failure/Cardiogenic Shock])
+ 
+ 
 ## Coagulation Biomarkers
 
 Typically includes CBC with differential, PT/INR, aPTT, D-dimer, fibrinogen; consider blood smear
@@ -423,9 +426,21 @@ This section provides guidance from the [ACC](https://www.acc.org/latest-in-card
 + Pulmonary rehabilitation (outpatient)
 + Vascular rehabilitation (outpatient)
 
+# General Management Considerations
 
+Individuals diagnosed with COVID-19 should undergo [risk assessment][Risk Stratification] to estimate progression to severe disease. Risk assessment may inform need for additional testing and guide treatment, including establishing elegibility for clinical trials.
 
-# Medication Considerations
+## Risk Stratification
+
+Many risk factors for severe disease have been identified from observational data, although most are non-specific and can occur separately from COVID-19 disease ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/)). UPHS has identified several risk factors that may be associated with increased risk. Any single risk factor below may confer increased risk of progression to severe disease: 
+
++ __Epidemiologic:__ Age >55, pre-existing pulmonary disease, chronic kidney disease, diabetes, history of hypertension, history of cardiovascular disease, use of immunosuppresion/biologic medications, uncontrolled HIV (CD4 < 200), history of organ transplant, actively treated malignancy, BMI > 40
++ __Vital Signs:__ Respiratory rate >24 breaths/minute, heart rate >125 beats/minute, SpO2 < 90% on room air
++ __Labs:__ D-dimer >1000ng/ml, CPK >2x upper limit of normal, non-cardiac CRP >100, LDH >245 U/L, elevated troponin, admission absolute lymphocyte count < 0.8, ferritin >300 ug/L (>800 ug/L associated with increased risk of mortality), higher SOFA Score
+
+See [Cardiovascular Testing Considerations] for recommendations regarding indications and frequency of cardiology-specific testing
+
+# Cardiovascular Medication Considerations
 
 ## ACE/ARB/ARNI
 
