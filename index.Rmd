@@ -527,6 +527,9 @@ __State-by-State Projections of Hospital Resource Use__
 University of Washington Institute for Health Metrics and Evaluation  
 https://covid19.healthdata.org/projections
 
+__Johns Hopkins Center for Systems Science and Engineering (CSSE) COVID-19 Map__  
+https://coronavirus.jhu.edu/map.html
+
 __COVID One-Page Quick Reference__  
 Nick Mark, MD (Pulmonary/Critical Care, Seattle, WA)  
 https://www.onepagericu.com/
