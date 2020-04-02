@@ -114,8 +114,9 @@ See [Szerlip, et al., Catheterization and Cardiovascular Interventions, 2020](ht
 ## Arrhythmia
 
 ### Incidence
-+ 16.7% (n = 23) overall; 44% (n = 16) of patients transferred to ICU ([Wang, et al., JAMA, 2020](https://pubmed.ncbi.nlm.nih.gov/32031570/))
-+ VT/VF in 5.9% (n = 11) ([Guo, et al., JAMA Cardiology, 2020](http://jamanetwork.com/article.aspx?doi=10.1001/jamacardio.2020.1017))
++ 16.7% overall (n = 23/138); 44% of patients transferred to ICU (n = 16/36)  ([Wang, et al., JAMA, 2020](https://pubmed.ncbi.nlm.nih.gov/32031570/))
++ VT/VF in 5.9% (n = 11/187) ([Guo, et al., JAMA Cardiology, 2020](http://jamanetwork.com/article.aspx?doi=10.1001/jamacardio.2020.1017))
+  + Elevated troponin levels at baseline were associated with increased in-hospital VT/VF (17.3% vs. 2%, P<0.001)
 + Palpitations in 7.2% (n = 10) ([Liu, et al., Chinese Medical Journal, 2020](https://pubmed.ncbi.nlm.nih.gov/32044814))
 
 ### Diagnostics
@@ -206,7 +207,7 @@ Hyperinflammatory syndrome characterised by macrophage activation and fulminant 
 
 ### Treatment Considerations
 + Care typically supportive
-+ Consideration of IVIG, steroids (may be associated with worsened lung injury), enrollment in clinical trial (or off-label use) of cytokine blockade (IL-6 antagonists [eg. tocilizumab, sarilumab] or IL-1 antagonists [eg. anakinra])
++ Consideration of IVIG, steroids (may be associated with worsened lung injury), enrollment in clinical trial (or off-label use) of cytokine blockade ([IL-6 antagonists][IL-6 inhibitors/Immunomodulators] [eg. tocilizumab, sarilumab, siltuximab] or IL-1 antagonists [eg. anakinra])
 
 
 ## Cardiomyopathy/Heart Failure/Cardiogenic Shock
@@ -475,7 +476,7 @@ Currently there are no approved treatments specifically for COVID-19, although s
 
 ### Evidence
 + In vitro evidence of activity against Ebola virus, Marburg, SARS-CoV and MERS-CoV, RSV, Nipah virus and Hendra virus
-+ Ongoing human clinical trials in Moderate and Severe disease, with compassionate-use reserved for pregnant women and children
++ Several ongoing clinical trials ([ClinicalTrials.gov](https://www.clinicaltrials.gov/ct2/results?cond=COVID&term=remdesivir&cntry=&state=&city=&dist=&Search=Search))
 
 ### Recommendations
 + UPHS guidelines recommend consideration of clinical trial enrollment and are actively seeking/screening patients with positive SARS-CoV-2 molecular testing
@@ -492,6 +493,17 @@ Currently there are no approved treatments specifically for COVID-19, although s
 
 ### Recommendations
 + UPHS guidelines recommend consideration in critically-ill patients
+
+## IL-6 inhibitors/Immunomodulators
+
+### Mechanism
++ The primary immunomodulatory approach to treating COVID-19 has employed humanized monoclonal antibodies to IL-6 to treat complications related to [cytokine release syndrome][Secondary Hemophagocytic Lymphohistiocytosis/Cytokine Release]
+### Evidence
++ Off-label use of tocilizumab (currently indicated for treatment of cytokine release syndrome in the setting of chimeric antigen T-cell receptor therapy for cancer) has been employed internationally, while other agents under investigation include Sarilumab and Siltuximab
++ A study by Xu et al (prepublication) of 21 patients (17 severe, 4 critical)  ([Xu et al., ChinaXiv 2020](http://www.chinaxiv.org/abs/202003.00026))
+  + All received “standard of care” including methylprednisolone and lopinavir in addition to tocilizumab 400mg x1 dose
+  + 19 patients were reportedly discharged, including 2 critically ill patients
++ Multiple randomized controlled trials of tocilizumab, sarilumab, and siltuximab are currently enrolling/in progress ([ClinicalTrials.gov](https://www.clinicaltrials.gov/ct2/results?cond=COVID&term=tocilizumab+OR+sarilumab+OR+Siltuximab&type=&rslt=&age_v=&gndr=&intr=&titles=&outc=&spons=&lead=&id=&cntry=&state=&city=&dist=&locn=&rsub=&strd_s=&strd_e=&prcd_s=&prcd_e=&sfpd_s=&sfpd_e=&rfpd_s=&rfpd_e=&lupd_s=&lupd_e=&sort=))
 
 ## Antibiotics
 + Rates of bacterial co-infection among patients with COVID-19 remain poorly defined, although one study identified 16% of participants (11/68) with secondary infection ([Ruan, et al., Intensive Care Med, 2020](https://www.ncbi.nlm.nih.gov/pubmed/32125452))
