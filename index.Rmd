@@ -133,6 +133,9 @@ See [Szerlip, et al., Catheterization and Cardiovascular Interventions, 2020](ht
 + Pulseless/Unstable: ACLS, defibrillation/cardioversion
 + Stable: Consider amiodarone or lidocaine infusion
 
+#### Bradyarrhythmia
++ Consider epinephrine, dopamine, isoproteronol, temporary pacemaker
+
 
 ## Myo/Pericarditis
 
@@ -140,15 +143,23 @@ See [Szerlip, et al., Catheterization and Cardiovascular Interventions, 2020](ht
 + Myocarditis and pericarditis may be sources of acute cardiac injury based on case reports, overall incidence unclear ([Ruan et al, Intensive Care Med, 2020](http://www.ncbi.nlm.nih.gov/pubmed/32125452); [Zeng et al, Preprints, 2020](http://dx.doi.org/10.20944/preprints202003.0180.v1); [Hu et al, Eur Heart J, 2020](http://www.ncbi.nlm.nih.gov/pubmed/32176300); [Inciardi, et al., JAMA Cardiology 2020](https://pubmed.ncbi.nlm.nih.gov/32219357))
 + No clear evidence of myocarditis on limited cardiac biopsy [(Xu, et al., Lancet Respir Med, 2020)](https://pubmed.ncbi.nlm.nih.gov/32085846)
 
+### Clinical Presentation
+Myo/Pericarditis may present with a broad spectrum and severity of symptoms including chest pain, palpitations, tachycardia/bradycardia, elevated cardiac biomarkers, or acute-onset heart failure with cardiogenic shock.  
+
 ### Diagnostics
 + [Cardiac troponin, NT-proBNP][Cardiac Biomarkers]
++ Physical exam may demonstrate pericardial friction rub, signs of heart failure (S3, elevated jugular venous pressure, edema)
 + [ECG][Electrocardiography/Telemetry] - case reports of pseudo-STEMI manifestations
+  + Diffuse ST-segment elevation with PR-segment depression
 + Consider [limited echocardiogram][Echocardiography]  
-+ Unclear role of endomyocardial biopsy and/or cardiac MRI
++ Unclear role of endomyocardial biopsy (to evaluate direct viral effects) and/or cardiac MRI/CT (to evaluate for myocardial inflammation and the presence of underlying coronary artery disease)
 
 ### Management
-+ Supportive treatment; consider colchicine, NSAIDs
-+ Anecdotal/case reports above describe treatment with steroids and IVIG in Wuhan
++ Supportive treatment
+  + __Acute Heart Failure:__ avoid medications with negative chronotropic/inotropic effects (eg. beta-blockers, calcium-channel blockers) if concerned for new heart failure as cardiac output may be dependent on tachycardia; avoid NSAIDs which may lead to fluid retention and myocardial injury. See [Cardiomyopathy/Heart Failure/Cardiogenic Shock].
+  + __Arrhythmia:__ see [Arrhythmia]
+  + __Pericarditis without myocardial involvement:__ consider colchicine, NSAIDs
++ Consider anti-inflammatory/immunomodulators if concomittant [Cytokine Release][Secondary Hemophagocytic Lymphohistiocytosis/Cytokine Release]; Anecdotal/case reports describe treatment with steroids and IVIG
 
 ## Thromboembolic Disease/Coagulopathy
 
