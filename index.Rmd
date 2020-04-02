@@ -50,11 +50,11 @@ This resource is compiled/updated by cardiology fellows at the Hospital of the U
 Serum levels of [cardiac biomarkers][Cardiac Biomarkers] (eg, high-sensitivity cardiac troponin I) above the 99th percentile upper reference limit, or new electrocardiographic and echocardiographic abnormalities ([Huang, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/31986264/); [Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/))  
 
 ### Pathophysiology
-May occur directly as consequence of virus-associated [Acute Coronary Syndrome], [Arrhythmia], [Myo/Pericarditis], or [Cytokine Release][Secondary Hemophagocytic Lymphohistiocytosis/Cytokine Release], or indrectly associated with the combination of acute illness and underlying hypertension, coronary artery disease, heart failure, structural heart disease, chronic kidney disease, or diabetes ([Bonow, et al. JAMA Cardiology 2020](https://pubmed.ncbi.nlm.nih.gov/32219362); [Thygesen, et al., JACC, 2018](https://pubmed.ncbi.nlm.nih.gov/30153967))
+May occur directly as consequence of virus-associated [Acute Coronary Syndrome], [Arrhythmia], [Myo/Pericarditis], or [Cytokine Release][Secondary Hemophagocytic Lymphohistiocytosis/Cytokine Release], or indirectly associated with the combination of acute illness and underlying hypertension, coronary artery disease, heart failure, structural heart disease, chronic kidney disease, or diabetes ([Bonow, et al. JAMA Cardiology 2020](https://pubmed.ncbi.nlm.nih.gov/32219362); [Thygesen, et al., JACC, 2018](https://pubmed.ncbi.nlm.nih.gov/30153967))
 
 ### Diagnostics
 + [Cardiac troponin, NT-proBNP][Cardiac Biomarkers]  
-+ [ECG][Electrocardiography/Telemetry]    
++ [ECG][Electrocardiography/Telemetry]   
 + Consider [limited echocardiogram][Echocardiography]  
 + Consider measurement of inflammatory markers to evaluate hyperinflammation (Ferritin, IL-6, LDH, D-dimer)  
 
