@@ -220,8 +220,9 @@ Hyperinflammatory syndrome characterised by macrophage activation and fulminant 
 ## Cardiomyopathy/Heart Failure/Cardiogenic Shock
 
 ### Incidence
-+ 23% overall (n = 44) ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/))
-+ 33% (n = 7) of ICU patients in Washington State ([Arentz et al., JAMA, 2020](http://www.ncbi.nlm.nih.gov/pubmed/32191259))
++ 23% overall (n = 44/191) ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/))
++ 33% (n = 7/21) of ICU patients in Washington State ([Arentz et al., JAMA, 2020](http://www.ncbi.nlm.nih.gov/pubmed/32191259))
++ There are limited reports of fulminant cardiomyopathy and cardiogenic shock
 
 ### Diagnostics
 + Physical Exam: ↑JVP/CVP, edema, rales/crackles
@@ -331,7 +332,7 @@ Cardiac biomarkers in general refer to troponin, however in specific clincal cir
 ### Recommendations
 + Consider baseline troponin in all patients diagnosed with COVID-19 for [risk stratification][Risk Stratification] 
   + Consider serial evaluation every 2-3 days in hospitalized patients for prognostic purposes  
-+ Repeat cardiac biomarker testing if concern for new cardiovascular complication  
++ Repeat cardiac biomarker testing if concern for new cardiovascular complication or clinical decompensation  
   + Follow institution-specific guidelines with regard to frequency and duration of testing for evaluation of conditions like [Acute Coronary Syndrome] or [Cardiomyopathy][Cardiomyopathy/Heart Failure/Cardiogenic Shock], which may depend on available testing (eg. high-sensitivity troponin, troponin-T vs. troponin-I, BNP vs. NT-proBNP, etc.)
   + Rate-of-change may be useful in differentiating [Acute Coronary Syndrome] from other etologies of [Acute Cardiac Injury] (eg. secondary to [Myo/Pericarditis]
  or [Cardiomyopathy/Heart Failure/Cardiogenic Shock])
@@ -343,7 +344,7 @@ Typically includes CBC with differential, PT/INR, aPTT, D-dimer, fibrinogen; con
 
 ### Indications
 + Evaluate COVID-19-associated [Thromboembolic Disease/Coagulopathy]
-+ Provide prognostic information about COVID-19 progresison and survival (see [Thromboembolic Disease/Coagulopathy])
++ Provide prognostic information about COVID-19 progression and survival (see [Thromboembolic Disease/Coagulopathy])
 + Evaluate non-COVID-19-associated thromboembolic/hematologic disease (eg. deep venous thrombosis, pulmonary embolism, coagulopathy, disseminated intravascular coagulation, hemolysis)
 
 ### Recommendations
@@ -448,9 +449,9 @@ This section provides guidance from the [ACC](https://www.acc.org/latest-in-card
 
 
 # Risk Stratification
-Individuals diagnosed with COVID-19 should undergo assessment to estimate progression to severe disease. Risk assessment may inform need for additional testing and guide treatment, including establishing elegibility for clinical trials. Many risk factors for severe disease have been identified from observational data, although most are non-specific and can occur separately from COVID-19 disease ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/)). UPHS has identified several risk factors that may be associated with increased risk. Any single risk factor below may confer increased risk of progression to severe disease: 
+Individuals diagnosed with COVID-19 should undergo assessment to estimate progression to severe disease. Risk assessment may inform need for additional testing and guide treatment, including establishing eligibility for clinical trials. Many risk factors for severe disease have been identified from observational data, although most are non-specific and can occur separately from COVID-19 disease ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/)). UPHS has identified several risk factors that may be associated with increased risk. Any single risk factor below may confer increased risk of progression to severe disease: 
 
-+ __Epidemiologic:__ Age >55, pre-existing pulmonary disease, chronic kidney disease, diabetes, history of hypertension, history of cardiovascular disease, use of immunosuppresion/biologic medications, uncontrolled HIV (CD4 < 200), history of organ transplant, actively treated malignancy, BMI > 40
++ __Epidemiologic:__ Age >55, pre-existing pulmonary disease, chronic kidney disease, diabetes, history of hypertension, history of cardiovascular disease, use of immunosuppression/biologic medications, uncontrolled HIV (CD4 < 200), history of organ transplant, actively treated malignancy, BMI > 40
 + __Vital Signs:__ Respiratory rate >24 breaths/minute, heart rate >125 beats/minute, SpO2 < 90% on room air
 + __Labs:__ D-dimer >1000ng/ml, CPK >2x upper limit of normal, non-cardiac CRP >100, LDH >245 U/L, elevated troponin, admission absolute lymphocyte count < 0.8, ferritin >300 ug/L (>800 ug/L associated with increased risk of mortality), higher SOFA Score
 
@@ -618,6 +619,10 @@ https://upenn.app.box.com/v/COVID19guides
 __Department of Pathology and Laboratory Medicine News__  
 For updates on testing capacity  
 http://pathology.med.upenn.edu/news
+
+__Penn Center for Research on Coronavirus and Other Emerging Pathogens__
+https://www.pennmedicine.org/research-at-penn/research-specialty-areas/penn-research-programs-and-interests/coronavirus-research-center
+
 
 # Major Cardiovascular Society Resources
 ## American College of Cardiology (ACC)
