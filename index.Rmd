@@ -26,6 +26,13 @@ output:
         instapaper: no
         vk: no
         all: ['facebook', 'twitter']
+      toc:
+        before: |
+          <li><a href="./">COVID-19 Resources for Penn Cardiologists</a></li>
+        after: |
+          <li><a href="https://github.com/rstudio/bookdown">
+          Published with Bookdown</a></li>
+        
 # output: word_document
 # bookdown::pdf_book: default
 ---
