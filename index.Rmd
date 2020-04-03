@@ -505,6 +505,22 @@ Currently there are no approved treatments specifically for COVID-19, although s
   + 19 patients were reportedly discharged, including 2 critically ill patients
 + Multiple randomized controlled trials of tocilizumab, sarilumab, and siltuximab are currently enrolling/in progress ([ClinicalTrials.gov](https://www.clinicaltrials.gov/ct2/results?cond=COVID&term=tocilizumab+OR+sarilumab+OR+Siltuximab&type=&rslt=&age_v=&gndr=&intr=&titles=&outc=&spons=&lead=&id=&cntry=&state=&city=&dist=&locn=&rsub=&strd_s=&strd_e=&prcd_s=&prcd_e=&sfpd_s=&sfpd_e=&rfpd_s=&rfpd_e=&lupd_s=&lupd_e=&sort=))
 
+## Convalescent Serum/Plasma
+
+Form of passive immunotherapy which involves the administration of serum/plasma (obtained via apheresis) containing neutralizing antibodies from patients who have recovered from infection
+
+### Mechanism
++ May accelerate viral clearance and limit entry into host target cells
+
+### Evidence
++ Administration of convalescent sera has been attempted in non-randomized trials during outbreaks of other infectious diseases, including H1N1 influenza, SARS, MERS, and Ebola with varying but promising efficacy ([Cheng, et al., Eur J Clin Microbiol Infect Dis
+, 2005](https://pubmed.ncbi.nlm.nih.gov/15616839/); [Casadevall, et al., J Clin Invest, 2020](https://pubmed.ncbi.nlm.nih.gov/32167489/); [Leider, et al., Transfusion, 2020](https://pubmed.ncbi.nlm.nih.gov/20158681/))
++ Small case series from China of 5 patients with COVID-19 who received convalescent plasma demonstrated improvement in body temperature, SOFA score, viral loads, and need for mechanical ventilation ([Shen, et al., JAMA 2020](https://pubmed.ncbi.nlm.nih.gov/32219428))
+
+### Recommendations
++ Consider enrollement in a clincial trial ([ClinicalTrials.gov](https://www.clinicaltrials.gov/ct2/results?cond=COVID&term=convalescent+plasma&cntry=&state=&city=&dist=))
+
+
 ## Antibiotics
 + Rates of bacterial co-infection among patients with COVID-19 remain poorly defined, although one study identified 16% of participants (11/68) with secondary infection ([Ruan, et al., Intensive Care Med, 2020](https://www.ncbi.nlm.nih.gov/pubmed/32125452))
 
