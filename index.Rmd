@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Resources for Penn Cardiologists"
-author: "Michael Levin, MD; Yoav Karpenshif, MD; Megan Burke, MD; Frank E. Silvestry MD on behalf of the Penn Cardiovascular Fellowship program"
+author: "[Michael Levin, MD](https://twitter.com/MGLevin); [Yoav Karpenshif, MD](https://twitter.com/YoavKarpenshif); [Megan Burke, MD](https://twitter.com/meganfburke); and [Frank E. Silvestry MD](https://twitter.com/FSilvestryMD) <br>on behalf of the [Penn Cardiology](https://twitter.com/PennCardiology) Fellowship program"
 description: "A compliation of COVID-19 resources assembled by cardiology fellows at the Hospital of the University of Pennsylvania"
 date: "__Last updated:__ `r Sys.Date()` (see [Recent Updates])"
 site: bookdown::bookdown_site
@@ -11,6 +11,8 @@ apple-touch-icon: "images/SARS-CoV-2_without_background.png"
 apple-touch-icon-size: 120
 favicon: "images/SARS-CoV-2_without_background.png"
 output:
+  # bookdown::html_document2:
+  #   number_sections: false
   bookdown::gitbook:
     includes:
       in_header: [google-analytics.html]
@@ -27,12 +29,14 @@ output:
         vk: no
         all: ['facebook', 'twitter']
       toc:
+        collapse: section
         before: |
-          <li><a href="./">COVID-19 Resources for Penn Cardiologists</a></li>
+          <b><li><a href="./">COVID-19 Resources for Penn Cardiologists</a></li></b>
         after: |
-          <li><a href="https://github.com/rstudio/bookdown">
+          <li><a href="https://bookdown.org/">
           Published with Bookdown</a></li>
-        
+
+  
 # output: word_document
 # bookdown::pdf_book: default
 ---
@@ -49,6 +53,7 @@ knitr::include_graphics("images/SARS-CoV-2_without_background.png", dpi = 600)
 
 This resource is compiled/updated by cardiology fellows at the Hospital of the University of Pennsylvania, and is designed to provide information to physicians and medical providers within the Division of Cardiovascular Medicine and other interested parties. The information provided here is not intended to be medical advice.
 
+# (PART) Clinical Resources {-}
 
 # Cardiovascular Manifestations of COVID-19  
 
@@ -513,6 +518,9 @@ Currently there are no approved treatments specifically for COVID-19, although s
 + In a retrospective study of 21 Italian patients treated with siltuximab, CRP levels improved among 16 patients with available data, 7/21 patients improved clinically, 9/21 stabilized, and 5/21 worsened (with 1 death and 1 stroke) ([Gritti, et al., medRxiv, 2020](https://www.medrxiv.org/content/10.1101/2020.04.01.20048561v1))
 + Multiple randomized controlled trials of tocilizumab, sarilumab, and siltuximab are currently enrolling/in progress ([ClinicalTrials.gov](https://www.clinicaltrials.gov/ct2/results?cond=COVID&term=tocilizumab+OR+sarilumab+OR+Siltuximab&type=&rslt=&age_v=&gndr=&intr=&titles=&outc=&spons=&lead=&id=&cntry=&state=&city=&dist=&locn=&rsub=&strd_s=&strd_e=&prcd_s=&prcd_e=&sfpd_s=&sfpd_e=&rfpd_s=&rfpd_e=&lupd_s=&lupd_e=&sort=))
 
+### Recommendations
++ Consider enrollment in a clinical trial ([ClinicalTrials.gov](https://www.clinicaltrials.gov/ct2/results?cond=COVID&term=tocilizumab+OR+sarilumab+OR+Siltuximab&type=&rslt=&age_v=&gndr=&intr=&titles=&outc=&spons=&lead=&id=&cntry=&state=&city=&dist=&locn=&rsub=&strd_s=&strd_e=&prcd_s=&prcd_e=&sfpd_s=&sfpd_e=&rfpd_s=&rfpd_e=&lupd_s=&lupd_e=&sort=))
+
 ## Convalescent Serum/Plasma
 
 Form of passive immunotherapy which involves the administration of serum/plasma (obtained via apheresis) containing neutralizing antibodies from patients who have recovered from infection
@@ -538,7 +546,7 @@ Form of passive immunotherapy which involves the administration of serum/plasma 
 
 ## Post-Exposure Prophylaxis
 
-Trials are ongoing to investigate the role of antiviral medications in prevention of disease following exposure (eg. [hydroxychloroquine post-exposure prophylaxis trial](https://www.clinicaltrials.gov/ct2/show/NCT04318444))
+Clinical trials are ongoing to investigate the role of antiviral medications in prevention of disease following exposure (eg. [hydroxychloroquine post-exposure prophylaxis trial](https://www.clinicaltrials.gov/ct2/show/NCT04318444))
 
 # Cardiovascular Medication Considerations
 
@@ -605,6 +613,8 @@ See review: [Simpson, et al., ACC.org, 2020](https://www.acc.org/latest-in-cardi
 ### Monitoring
 + [ECG][Electrocardiography/Telemetry] (baseline QTc)
 + Consider telemetry
+
+# (PART) Additional Resources {-}
 
 # Penn Resources
 
