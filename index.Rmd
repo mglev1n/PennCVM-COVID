@@ -86,7 +86,7 @@ May occur directly as consequence of virus-associated [Acute Coronary Syndrome],
   + Occured in 59% of non-survivors (N = 32) vs. 1% of survivors (N = 1) ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/))
   + Adjusted HR 4.26 [95% CI, 1.92-9.49] p < 0.001) ([Shi, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32211816))
   + Mortality 59.6% (n = 31) in individuals with ↑TnT vs. 8.9% (n = 12) with normal TnT; p < 0.001 ([Guo, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32219356))
-  + Possible interaction between underlying cardiovascular disease (CVD) and myocardial injury
+  + Increased mortality was seen with elevated troponin regardless of CVD status, but underlying CVD was also associated with increased mortality without evidence of cardiac injury  
     + Mortality 7.62% (8 of 105) among patients without CVD + normal TnT, 13.33% (4 of 30) for underlying CVD + normal TnT levels, 37.50% (6 of 16) for those without underlying CVD + ↑TnT levels, and 69.44% (25 of 36) for underlying CVD + ↑TnT ([Guo, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32219356))
     
 ### Treatment Considerations
@@ -107,7 +107,7 @@ May occur directly as consequence of virus-associated [Acute Coronary Syndrome],
 
 ### Incidence
 + As of 3/2020, case reports of acute coronary syndromes (ACS) (Type 1 MI) in the setting of COVID-19 have yet to be published ([Driggin, et al., JACC, 2020](https://pubmed.ncbi.nlm.nih.gov/32201335)) 
-+ Severe respiratory has been identified as a risk factor for acute myocardial infarction 
++ Severe respiratory infection has been identified as a risk factor for acute myocardial infarction 
   + Incidence ratio [IR] 6.1, 95% CI 3.9-9.5 following influenza; IR 2.8, 95% CI 1.2–6.2 following non-influenza viral illness ([Kwong, et al., NEJM, 2018](https://pubmed.ncbi.nlm.nih.gov/29365305/))
 
 ### Diagnostics
@@ -151,6 +151,7 @@ See [Szerlip, et al., Catheterization and Cardiovascular Interventions, 2020](ht
 #### Ventricular Tachycardia
 + Pulseless/Unstable: ACLS, defibrillation/cardioversion
 + Stable: Consider amiodarone or lidocaine infusion
++ Consider stopping QTc prolonging medications in patients who develop torsades in the setting of prolonged QT
 
 #### Bradyarrhythmia
 + Consider epinephrine, dopamine, isoproteronol, temporary pacemaker
@@ -161,13 +162,13 @@ See [Szerlip, et al., Catheterization and Cardiovascular Interventions, 2020](ht
 
 ### Incidence
 + Myocarditis and pericarditis may be sources of acute cardiac injury based on case reports, overall incidence unclear ([Ruan et al, Intensive Care Med, 2020](http://www.ncbi.nlm.nih.gov/pubmed/32125452); [Zeng et al, Preprints, 2020](http://dx.doi.org/10.20944/preprints202003.0180.v1); [Hu et al, Eur Heart J, 2020](http://www.ncbi.nlm.nih.gov/pubmed/32176300); [Inciardi, et al., JAMA Cardiology 2020](https://pubmed.ncbi.nlm.nih.gov/32219357))
-+ No clear evidence of myocarditis on limited cardiac biopsy [(Xu, et al., Lancet Respir Med, 2020)](https://pubmed.ncbi.nlm.nih.gov/32085846)
++ No clear evidence of myocarditis on limited cardiac biopsy [(Xu, et al., Lancet Respir Med, 2020)](https://pubmed.ncbi.nlm.nih.gov/32085846), but case reports have demonstrated evidence of myocarditis on MRI ([Inciardi et al., JAMA Cardiology 2020](https://pubmed.ncbi.nlm.nih.gov/32219357))
 
 ### Clinical Presentation
 Myo/Pericarditis may present with a broad spectrum and severity of symptoms including chest pain, palpitations, tachycardia/bradycardia, elevated cardiac biomarkers, or acute-onset heart failure with cardiogenic shock.  
 
 ### Diagnostics
-+ [Cardiac troponin, NT-proBNP][Cardiac Biomarkers]
++ [Cardiac troponin, NT-proBNP][Cardiac Biomarkers], [Ferritin, IL-6, LDH, D-dimer](Inflammatory Biomarkers)
 + Physical exam may demonstrate pericardial friction rub, signs of heart failure (S3, elevated jugular venous pressure, edema)
 + [ECG][Electrocardiography/Telemetry] - case reports of pseudo-STEMI manifestations
   + Diffuse ST-segment elevation with PR-segment depression
@@ -187,7 +188,7 @@ Myo/Pericarditis may present with a broad spectrum and severity of symptoms incl
 
 ### Incidence
 + Mild thrombocytopenia (platelets 100-150) in 20% (n = 13) ([Fan, et al., American Journal of Hematology, 2020](https://pubmed.ncbi.nlm.nih.gov/32129508))
-+ Coaguloapthy in 34.1% (n = 42) ([Guo, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32219356))
++ Coagulopathy in 34.1% (n = 42) ([Guo, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32219356))
 + Coagulopathy (defined as 3-second extension of PT or a 5-second extension of aPTT) in 19% (n = 37) ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/))  
 
 ### Diagnostics
@@ -200,7 +201,7 @@ Myo/Pericarditis may present with a broad spectrum and severity of symptoms incl
 
 ### Treatment Considerations
 + VTE prophylaxis in all hospitalized patients with COVID-19
-+ A retrospective study in China of 449 consecutive cases of severe COVID-19 showed benefit of LMWH in patients with high D-Dimer, PT times, and Sepsis Induced Coagulopathy score > 4 ([Tang, et al., Journal of Thrombosis and Haemostasis, 2020](https://pubmed.ncbi.nlm.nih.gov/32220112)) 
++ A retrospective study in China of 449 consecutive cases of severe COVID-19 showed benefit of LMWH (mainly prophylactic dose) in patients with high D-Dimer, PT times, and Sepsis Induced Coagulopathy score > 4 ([Tang, et al., Journal of Thrombosis and Haemostasis, 2020](https://pubmed.ncbi.nlm.nih.gov/32220112)) 
 + Current ISTH proposed guidelines suggest prophylactic anticoagulation with LMWH ([Thachil et al, Journal of Thrombosis and Haemostasis, 2020](https://doi.org/10.1111/jth.14810))
 
 ---
@@ -246,6 +247,7 @@ Hyperinflammatory syndrome characterised by macrophage activation and fulminant 
 + [ECG][Electrocardiography/Telemetry]
 + Chest x-ray
 + Consider [limited echocardiogram][Echocardiography]  
+  + For patients with cardiogenic shock, echocardiogram may help differentiate the etiology and change management (eg. global hypokinesis vs. regional wall abnormality suggesting ACS, mechanical complications of an untreated MI)
 
 ### Prognostic Implications
 + Chronic heart failure associated with increased risk of acute cardiac injury (14.6% vs. 1.5%) ([Shi, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32211816))
@@ -264,6 +266,7 @@ Hyperinflammatory syndrome characterised by macrophage activation and fulminant 
 + Titration of norepinephrine infusion for goal MAP 65-75
 + Initiate diuretic therapy for CVP > 14, PCWP >18, PAD > 25
 + Consider inotropic support (eg. dobutamine or epinephrine infusions)
++ Consider bedside placement of IABP or ECMO if patients are not responding to medical management alone
 
 
 # Cardiovascular Testing Considerations
@@ -379,6 +382,7 @@ May include ferritin, non-cardiac CRP, ESR, LDH; under specific circumstances mo
 ### Indications
 + Evaluate COVID-19-associated [Cytokine Release][Secondary Hemophagocytic Lymphohistiocytosis/Cytokine Release]
 + Provide prognostic information about disease progression and survival
++ May provide information about eligibility for clinical trials
 
 ### Recommendations
 + Consider baseline ferritin, non-cardiac CRP, ESR, LDH for [risk stratification][Risk Stratification]
@@ -470,7 +474,7 @@ This section provides guidance from the [ACC](https://www.acc.org/latest-in-card
 
 
 # Risk Stratification
-Individuals diagnosed with COVID-19 should undergo assessment to estimate progression to severe disease. Risk assessment may inform need for additional testing and guide treatment, including establishing eligibility for clinical trials. Many risk factors for severe disease have been identified from observational data, although most are non-specific and can occur separately from COVID-19 disease ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/)). UPHS has identified several risk factors that may be associated with increased risk. Any single risk factor below may confer increased risk of progression to severe disease: 
+Individuals diagnosed with COVID-19 should undergo assessment to estimate progression to severe disease. Risk assessment may inform the need for additional testing and guide treatment, including establishing eligibility for clinical trials. Many risk factors for severe disease have been identified from observational data, although most are non-specific and can occur separately from COVID-19 disease ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/)). UPHS has identified several risk factors that may be associated with increased risk. Any single risk factor below may confer increased risk of progression to severe disease: 
 
 + __Epidemiologic:__ Age >55, pre-existing pulmonary disease, chronic kidney disease, diabetes, history of hypertension, history of cardiovascular disease, use of immunosuppression/biologic medications, uncontrolled HIV (CD4 < 200), history of organ transplant, actively treated malignancy, BMI > 40
 + __Vital Signs:__ Respiratory rate >24 breaths/minute, heart rate >125 beats/minute, SpO2 < 90% on room air
@@ -566,7 +570,7 @@ Form of passive immunotherapy which involves the administration of serum/plasma 
 
 ### Recommendations
 + If concern exists for bacterial co-infection, evaluation may include sputum culture, MRSA culture, blood and/or urine cultures, procalcitonin, and evaluation with diagnostic imaging
-+ Consider empiric treatment for bacterial pneumonia with antibiotics based on local treatment guidelines and risk factors for drug-resistant organisms (MRSA, pseudomonas)
++ Consider empiric treatment for bacterial pneumonia (particularly ventilator associated pneumonia) with antibiotics based on local treatment guidelines and risk factors for drug-resistant organisms (MRSA, pseudomonas)
 
 ---
 
@@ -638,7 +642,7 @@ See review: [Simpson, et al., ACC.org, 2020](https://www.acc.org/latest-in-cardi
 See review: [Simpson, et al., ACC.org, 2020](https://www.acc.org/latest-in-cardiology/articles/2020/03/27/14/00/ventricular-arrhythmia-risk-due-to-hydroxychloroquine-azithromycin-treatment-for-covid-19) 
 
 ### Toxicity
-+ __Altered cardiac conduction:__ QTc prolongation, ventricular arrhythmias, torsades de pointes; consider avoiding use in patients with prolonged QT interval, congenital long QT syndrome, history of torsades de pointes, bradyarrhythmias, uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, uncompensated heart failure, or concurrent use of Class IA (eg, quinidine, procainamide) or Class III (eg, amiodarone, dofetilide, sotalol) antiarrhythmic agents or other drugs known to prolong the QT interval. ([UpToDate](https://www.uptodate.com/contents/azithromycin-systemic-drug-information?search=azithromycin&source=panel_search_result&selectedTitle=1~146&usage_type=panel&display_rank=1#F7983222))
++ __Altered cardiac conduction:__ QTc prolongation, ventricular arrhythmias, torsades de pointes; consider avoiding use in patients with prolonged QT interval, congenital long QT syndrome, history of torsades de pointes, bradyarrhythmias, uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, decompensated heart failure, or concurrent use of Class IA (eg, quinidine, procainamide) or Class III (eg, amiodarone, dofetilide, sotalol) antiarrhythmic agents or other drugs known to prolong the QT interval. ([UpToDate](https://www.uptodate.com/contents/azithromycin-systemic-drug-information?search=azithromycin&source=panel_search_result&selectedTitle=1~146&usage_type=panel&display_rank=1#F7983222))
   + Development of acute renal failure (but not baseline QTc) predictive of developing prolonged QTc >500ms among patients being treated for SARS-CoV-2 infection with hydroxychloroquine and azithromycin at New York University ([Chorin, et al., medRxiv, 2020](https://www.medrxiv.org/content/10.1101/2020.04.02.20047050v1))
 
 ### Monitoring
@@ -716,6 +720,8 @@ http://pathology.med.upenn.edu/news
 __Penn Center for Research on Coronavirus and Other Emerging Pathogens__
 https://www.pennmedicine.org/research-at-penn/research-specialty-areas/penn-research-programs-and-interests/coronavirus-research-center
 
+__Clinical Trials at Penn__  
+https://www.pennmedicine.org/coronavirus/covid-19-clinical-trials
 
 # Major Cardiovascular Society Resources
 ## American College of Cardiology (ACC)
