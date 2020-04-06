@@ -44,6 +44,8 @@ output:
 ```{r include=FALSE}
 library(DiagrammeR)
 library(tidyverse)
+
+options(bookdown.clean_book = TRUE)
 ```
 
 
@@ -76,16 +78,16 @@ May occur directly as consequence of virus-associated [Acute Coronary Syndrome],
 + 12% overall, 31% ICU, 4% non-ICU (among 41 patients total) ([Huang, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/31986264/))
 + 17% overall (among 191 patients total) ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/))
 + 19.7% overall (among 416 patients overall) ([Shi, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32211816))
-+ 27.8% (n = 52) (among 187 patients overall) ([Guo, et al., JAMA Cardiology, 2020](http://jamanetwork.com/article.aspx?doi=10.1001/jamacardio.2020.1017))
++ 27.8% (n = 52) (among 187 patients overall) ([Guo, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32219356))
 
 ### Prognostic Implications
 + Associated with increased utilization of noninvasive ventilation (38 [46.3%] vs 13 [3.9%]; P < .001) and invasive mechanical ventilation (18 [22.0%] vs 14 [4.2%]; P < .001) ([Shi, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32211816))
 + Associated with increased mortality
   + Occured in 59% of non-survivors (N = 32) vs. 1% of survivors (N = 1) ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/))
   + Adjusted HR 4.26 [95% CI, 1.92-9.49] p < 0.001) ([Shi, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32211816))
-  + Mortality 59.6% (n = 31) in individuals with ↑TnT vs. 8.9% (n = 12) with normal TnT; p < 0.001 ([Guo, et al., JAMA Cardiology, 2020](http://jamanetwork.com/article.aspx?doi=10.1001/jamacardio.2020.1017))
+  + Mortality 59.6% (n = 31) in individuals with ↑TnT vs. 8.9% (n = 12) with normal TnT; p < 0.001 ([Guo, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32219356))
   + Possible interaction between underlying cardiovascular disease (CVD) and myocardial injury
-    + Mortality 7.62% (8 of 105) among patients without CVD + normal TnT, 13.33% (4 of 30) for underlying CVD + normal TnT levels, 37.50% (6 of 16) for those without underlying CVD + ↑TnT levels, and 69.44% (25 of 36) for underlying CVD + ↑TnT ([Guo, et al., JAMA Cardiology, 2020](http://jamanetwork.com/article.aspx?doi=10.1001/jamacardio.2020.1017))
+    + Mortality 7.62% (8 of 105) among patients without CVD + normal TnT, 13.33% (4 of 30) for underlying CVD + normal TnT levels, 37.50% (6 of 16) for those without underlying CVD + ↑TnT levels, and 69.44% (25 of 36) for underlying CVD + ↑TnT ([Guo, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32219356))
     
 ### Treatment Considerations
   + Supportive care
@@ -130,7 +132,7 @@ See [Szerlip, et al., Catheterization and Cardiovascular Interventions, 2020](ht
 
 ### Incidence
 + 16.7% overall (n = 23/138); 44% of patients transferred to ICU (n = 16/36)  ([Wang, et al., JAMA, 2020](https://pubmed.ncbi.nlm.nih.gov/32031570/))
-+ VT/VF in 5.9% (n = 11/187) ([Guo, et al., JAMA Cardiology, 2020](http://jamanetwork.com/article.aspx?doi=10.1001/jamacardio.2020.1017))
++ VT/VF in 5.9% (n = 11/187) ([Guo, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32219356))
   + Elevated troponin levels at baseline were associated with increased in-hospital VT/VF (17.3% vs. 2%, P<0.001)
 + Palpitations in 7.2% (n = 10) ([Liu, et al., Chinese Medical Journal, 2020](https://pubmed.ncbi.nlm.nih.gov/32044814))
 
@@ -185,7 +187,7 @@ Myo/Pericarditis may present with a broad spectrum and severity of symptoms incl
 
 ### Incidence
 + Mild thrombocytopenia (platelets 100-150) in 20% (n = 13) ([Fan, et al., American Journal of Hematology, 2020](https://pubmed.ncbi.nlm.nih.gov/32129508))
-+ Coaguloapthy in 34.1% (n = 42) ([Guo, et al., JAMA Cardiology, 2020](http://jamanetwork.com/article.aspx?doi=10.1001/jamacardio.2020.1017))
++ Coaguloapthy in 34.1% (n = 42) ([Guo, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32219356))
 + Coagulopathy (defined as 3-second extension of PT or a 5-second extension of aPTT) in 19% (n = 37) ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/))  
 
 ### Diagnostics
@@ -476,7 +478,7 @@ Individuals diagnosed with COVID-19 should undergo assessment to estimate progre
 
 See [Cardiovascular Testing Considerations] for recommendations regarding indications and frequency of cardiology-specific testing
 
-# Treatment Considerations
+# General Medication Considerations
 
 Currently there are no approved treatments specifically for COVID-19, although several clinical trials of investigational therapies are underway.
 
@@ -642,6 +644,56 @@ See review: [Simpson, et al., ACC.org, 2020](https://www.acc.org/latest-in-cardi
 ### Monitoring
 + [ECG][Electrocardiography/Telemetry] (baseline QTc)
 + Consider telemetry
+
+# Respiratory Considerations
+
+Hypoxia is a common lower respiratory manifestation of COVID-19, particularly among hospitalized patients, often with progression to acute respiratory distress syndrome (ARDS). Modalities to provide supplemental oxygenation and ventilation have consequences on the cardiovascular system, particularly among patients with underlying cardiovascular disease. Strategies for use of non-invasive and invasive mechanical ventilation in patients with COVID may be institution-specific based on equipement availability and staff expertise, in addition to COVID-specific considerations including expected disease trajectory and risks of aerosolization. The need for supplemental oxygenation/ventilation, basic management, and the hemodynamic consequences are reviewed here.
+
+See [Avilar, et al., JACC 2018](https://pubmed.ncbi.nlm.nih.gov/30236315)
+
+## Incidence of Hypoxic Respiratory Failure
+
+Among patients hospitalized with COVID-19, the need for supplemental oxygenation/ventilation is common:  
+
++ Of 191 hospitalized patients, 103 (54%) developed respiratory failure, 59 31%) developed acute respiratory distress syndrome (ARDS), 41 (21%) received high-flow nasal cannula oxygen therapy, 26 (14%) received non-invasive mechanical ventilation, 32 (17%) received invasive mechanical ventilation, and 3 (2%) received extracorporeal membrane oxygenation (ECMO) ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/))
++ Of 187 hospitalized patients, 46 (24.6%) developed ARDS, with 45 (24.1%) requiring mechanical ventilation ([Guo, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32219356))
+
+## Basics of Mechanical Ventilation
+
+Common modalities for provision of supplemental oxygenation/ventilation include nasal cannula, facemask/nonrebreather, high-flow nasal cannula,  continuous positive airway pressure (CPAP), bilevel positive airway pressure (BiPAP), and invasive mechanical ventilation.  
+
++ __Nasal cannula, facemask, and high-flow nasal cannula:__ function predominately by increasing the fraction of inspired oxygen (FiO2), to varying degress, depending on the flow and amount of mixing with room air, with minimal/modest effects on airway pressures
++ __CPAP, BiPAP, and Invasive Mechanical Ventilation:__ in addition to increasing the fraction of inspired oxygen, these modalities have the ability to alter airway pressures (to varying degrees). These modalities may have hemodynamic effects in addition to their effect on oxgenation/ventilation
+
+### CPAP and BiPAP
+
+Both CPAP and BiPAP are non-invasive strategies that utilize masks or helmets to provide support to the patient, and may be used to treat hypoxia (CPAP/BiPAP), increased work of breathing (CPAP/BiPAP), and hypercarbic respiratory faulure (BiPAP)
+
++ __CPAP:__ allows the user to set FiO2 and the amount of continuous positive airway pressure, predominately functioning to improve oxygenation (and work of breathing)
++ __BiPAP:__ allows the user to set FiO2, inspiratory positive airway pressure (IPAP), and expiratory positive airway pressure (EPAP). Increasing FiO2 and EPAP work to improve oxygenation. The pressure difference between IPAP and EPAP augments tidal volume, improving ventilation.
+
+### Invasive Mechanical Ventilation
+
+Invasive mechanical ventilation utilizes an endotracheal tube and ventilator to provide invasive oxygenation/ventilation support to the patient. Several parameters are avialable to the user to manipulate both oxygenation and ventilation. At UPHS, the primary mode of ventilation for patients with ARDS is assist-control/volume-control, which allows the user to provide fully-supported breaths to the patient and guarantee a minimum minute-ventilation. 
+
+#### Common settings
++ __Tidal Volume:__ the target tidal volume in ARDS is 6cc/kilogram of predicted body weight (based on the patient's height). In combination with respiratory rate, tidal volume affects ventilation (and acid-base status). The target tidal volume is lower than in a spontaneously breathing patient to minimize volutrauma and ventilator-associated lung injury.
++ __Respiratory Rate:__ the respiratory rate (in combination with tidal volume) affects ventilation (and acid-base status). Because the initial tidal volume is low, the initial respiratory rate should be higher than normal in order to match the increased minute-ventilation requirements of critically-ill patients.
++ __Fraction of Inspired Oxygen (FiO2):__ FiO2 is often set initially at 100%, but should be titrated to goal peripheral oxygen saturation (SpO2) >92%
++ __Positive End-Expiratory Pressure (PEEP):__ PEEP allows the user to increase end-expiratory pressure to ensure alveoli remain open for gas exchange. When PEEP is set too low, alveoli may de-recruit with each breath, leading to atelectotrauma and ventilator-associated lung injury. When PEEP is set too high, alveoli may experience barotrauma and ventilator-associated lung injury. PEEP may also have hemodynamic effects.
+
+#### Monitoring parameters
+
++ __Pulse Oximetry/PaO2:__ The effectiveness of oxygen supplementation may be monitored peripherally with the use of pulse oximetry, or invasively with the use of an aterial blood gas and measurement of the partial pressure of dissolved oxygen. Goal peripheral oxygen saturation is typically >92% (although may be lower in patient's with underlying hypercarbic lung disease like COPD), and goal PaO2 55-80 mmHg.
++ __End-tidal CO2/PCO2:__ The effectiveness of ventilatory support may be monitored non-invasively with the use of an end-tidal CO2 monitor, or invasively using venous or arterial blood gases. Goal pH >7.15 in ARDSnet trials, UPHS pH goal >7.20.
++ __Plateau Pressure:__ To minimize ventilator-induced lung injury, the plateau pressure (measured using an inspiratory pause maneuver) should remain <30 cm H2O. Minimizing __Driving Pressure__ (difference between plateau pressure and PEEP) has been identified as a predictor of improved outcomes in ARDS. This can be acheived by asking a respiratory therapist to perform "PEEP titration" (adjusting PEEP to minimize driving pressure while keeping plateau pressure <30 cm H2O). 
+
+## Hemodynamic Effects of Mechanical Ventilation
+
+See [Avilar, et al., JACC 2018](https://pubmed.ncbi.nlm.nih.gov/30236315):
+```{r echo=FALSE, fig.align='center'}
+knitr::include_graphics("images/Ventilation-Hemodynamics.jpg", dpi = 300)
+```
 
 # (PART) Additional Resources {-}
 
