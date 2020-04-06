@@ -14,6 +14,7 @@ output:
   # bookdown::html_document2:
   #   number_sections: false
   bookdown::gitbook:
+    css: css/style.css
     includes:
       in_header: [google-analytics.html]
     toc_depth: 4
@@ -90,6 +91,7 @@ May occur directly as consequence of virus-associated [Acute Coronary Syndrome],
   + Supportive care
   + If associated with concomitant [hyperinflammation/cytokine storm/secondary HLH][Secondary Hemophagocytic Lymphohistiocytosis/Cytokine Release], consider anti-IL6 or anti-IL1 therapy
 
+---
 
 ## Acute Coronary Syndrome
 
@@ -122,6 +124,7 @@ See [Szerlip, et al., Catheterization and Cardiovascular Interventions, 2020](ht
 + Early angiography (<2 hours) for ___very high risk___ patients (refractory chest pain, heart failure, cardiogenic shock, life-threatening arrhythmia)
 + Conservative management for ___non-very high risk___ patients with antiplatelet therapy, anticoagulation (48 hours), high-intensity statin, beta-blocker, ACE-inhibitor (if indicated)
 
+---
 
 ## Arrhythmia
 
@@ -150,6 +153,7 @@ See [Szerlip, et al., Catheterization and Cardiovascular Interventions, 2020](ht
 #### Bradyarrhythmia
 + Consider epinephrine, dopamine, isoproteronol, temporary pacemaker
 
+---
 
 ## Myo/Pericarditis
 
@@ -175,6 +179,8 @@ Myo/Pericarditis may present with a broad spectrum and severity of symptoms incl
   + __Pericarditis without myocardial involvement:__ consider colchicine, NSAIDs
 + Consider anti-inflammatory/immunomodulators if concomittant [Cytokine Release][Secondary Hemophagocytic Lymphohistiocytosis/Cytokine Release]; Anecdotal/case reports describe treatment with steroids and IVIG
 
+---
+
 ## Thromboembolic Disease/Coagulopathy
 
 ### Incidence
@@ -195,6 +201,7 @@ Myo/Pericarditis may present with a broad spectrum and severity of symptoms incl
 + A retrospective study in China of 449 consecutive cases of severe COVID-19 showed benefit of LMWH in patients with high D-Dimer, PT times, and Sepsis Induced Coagulopathy score > 4 ([Tang, et al., Journal of Thrombosis and Haemostasis, 2020](https://pubmed.ncbi.nlm.nih.gov/32220112)) 
 + Current ISTH proposed guidelines suggest prophylactic anticoagulation with LMWH ([Thachil et al, Journal of Thrombosis and Haemostasis, 2020](https://doi.org/10.1111/jth.14810))
 
+---
 
 ## Secondary Hemophagocytic Lymphohistiocytosis/Cytokine Release
 
@@ -221,6 +228,7 @@ Hyperinflammatory syndrome characterised by macrophage activation and fulminant 
 + Care typically supportive
 + Consideration of IVIG, steroids (may be associated with worsened lung injury), enrollment in clinical trial (or off-label use) of cytokine blockade ([IL-6 antagonists][IL-6 inhibitors/Immunomodulators] [eg. tocilizumab, sarilumab, siltuximab] or IL-1 antagonists [eg. anakinra])
 
+---
 
 ## Cardiomyopathy/Heart Failure/Cardiogenic Shock
 
@@ -270,6 +278,7 @@ Hyperinflammatory syndrome characterised by macrophage activation and fulminant 
 + Repeat electrocardiogram if new concern for cardiovascular complication
 + Consider utilization of telemetry to minimize need for serial/frequent electrocardiograms which require significant close bedside contact
 
+---
 
 ## Echocardiography
 
@@ -324,6 +333,7 @@ DiagrammeR("graph TB;
 mermaid("graph LR;")
 ```
 
+---
 
 ## Cardiac Biomarkers
 
@@ -342,7 +352,8 @@ Cardiac biomarkers in general refer to troponin, however in specific clinical ci
   + Rate-of-change may be useful in differentiating [Acute Coronary Syndrome] from other etiologies of [Acute Cardiac Injury] (eg. secondary to [Myo/Pericarditis]
  or [Cardiomyopathy/Heart Failure/Cardiogenic Shock])
  
- 
+--- 
+
 ## Coagulation Biomarkers
 
 Typically includes CBC with differential, PT/INR, aPTT, D-dimer, fibrinogen; consider blood smear
@@ -357,6 +368,8 @@ Typically includes CBC with differential, PT/INR, aPTT, D-dimer, fibrinogen; con
   + Consider serial evaluation every 2-3 days in hospitalized patients for prognostic purposes
 + Repeat testing if concern for new complication
 
+---
+
 ## Inflammatory Biomarkers
 
 May include ferritin, non-cardiac CRP, ESR, LDH; under specific circumstances molecular testing of inflammatory cytokine levels may be indicated (if available)
@@ -370,6 +383,7 @@ May include ferritin, non-cardiac CRP, ESR, LDH; under specific circumstances mo
   + Consider serial evaluation every 2-3 days in hospitalized patients for prognostic purposes
 + Consider molecular testing of inflammatory cytokines/markers (eg. IL-6), natural killer cell activity, soluble IL-2 receptor) in discussion with hematology if concerned for [Cytokine Release][Secondary Hemophagocytic Lymphohistiocytosis/Cytokine Release]
 
+---
 
 ## Deferral of Non-urgent Testing/Procedures
 This section provides guidance from the [ACC](https://www.acc.org/latest-in-cardiology/articles/2020/03/24/09/42/general-guidance-on-deferring-non-urgent-cv-testing-and-procedures-during-the-covid-19-pandemic) regarding non-urgent cardiovascular testing and procedures that may be deferred, by specialty.
@@ -481,6 +495,7 @@ Currently there are no approved treatments specifically for COVID-19, although s
 ### Recommendations
 + UPHS guidelines recommend consideration of hydroxychloroquine in hospitalized patients with risk factors for progression to severe disease, and critically-ill patients, including those requiring mechanical ventilation
 
+---
 
 ## Remdesivir
 
@@ -493,6 +508,8 @@ Currently there are no approved treatments specifically for COVID-19, although s
 
 ### Recommendations
 + UPHS guidelines recommend consideration of clinical trial enrollment and are actively seeking/screening patients with positive SARS-CoV-2 molecular testing
+
+---
 
 ## Lopinavir-Ritonavir
 
@@ -507,6 +524,8 @@ Currently there are no approved treatments specifically for COVID-19, although s
 ### Recommendations
 + UPHS guidelines recommend consideration in critically-ill patients
 
+---
+
 ## IL-6 inhibitors/Immunomodulators
 
 ### Mechanism
@@ -520,6 +539,8 @@ Currently there are no approved treatments specifically for COVID-19, although s
 
 ### Recommendations
 + Consider enrollment in a clinical trial ([ClinicalTrials.gov](https://www.clinicaltrials.gov/ct2/results?cond=COVID&term=tocilizumab+OR+sarilumab+OR+Siltuximab&type=&rslt=&age_v=&gndr=&intr=&titles=&outc=&spons=&lead=&id=&cntry=&state=&city=&dist=&locn=&rsub=&strd_s=&strd_e=&prcd_s=&prcd_e=&sfpd_s=&sfpd_e=&rfpd_s=&rfpd_e=&lupd_s=&lupd_e=&sort=))
+
+---
 
 ## Convalescent Serum/Plasma
 
@@ -536,6 +557,7 @@ Form of passive immunotherapy which involves the administration of serum/plasma 
 ### Recommendations
 + Consider enrollment in a clinical trial ([ClinicalTrials.gov](https://www.clinicaltrials.gov/ct2/results?cond=COVID&term=convalescent+plasma&cntry=&state=&city=&dist=))
 
+---
 
 ## Antibiotics
 + Rates of bacterial co-infection among patients with COVID-19 remain poorly defined, although one study identified 16% of participants (11/68) with secondary infection ([Ruan, et al., Intensive Care Med, 2020](https://www.ncbi.nlm.nih.gov/pubmed/32125452))
@@ -543,6 +565,8 @@ Form of passive immunotherapy which involves the administration of serum/plasma 
 ### Recommendations
 + If concern exists for bacterial co-infection, evaluation may include sputum culture, MRSA culture, blood and/or urine cultures, procalcitonin, and evaluation with diagnostic imaging
 + Consider empiric treatment for bacterial pneumonia with antibiotics based on local treatment guidelines and risk factors for drug-resistant organisms (MRSA, pseudomonas)
+
+---
 
 ## Post-Exposure Prophylaxis
 
@@ -573,6 +597,8 @@ See reviews: [Vaduganathan et al., NEJM, 2020](https://www.nejm.org/doi/full/10.
 ### Recommendation
 + [ESC](https://www.escardio.org/Councils/Council-on-Hypertension-(CHT)/News/position-statement-of-the-esc-council-on-hypertension-on-ace-inhibitors-and-ang) and [HFSA/ACC/AHA](https://professional.heart.org/professional/ScienceNews/UCM_505836_HFSAACCAHA-statement-addresses-concerns-re-using-RAAS-antagonists-in-COVID-19.jsp) recommend continuation of ACE/ARB/ARNI.
 
+---
+
 ## NSAIDs
 
 ### Pathophysiology
@@ -588,6 +614,7 @@ See reviews: [Vaduganathan et al., NEJM, 2020](https://www.nejm.org/doi/full/10.
 ### Recommendation
 + There is no strong clinical evidence _for_ or _against_ the use of NSAIDs in individuals with (or at-risk-of) SARS-CoV-2 infection ([Fitzgerald, Science, 2020](https://pubmed.ncbi.nlm.nih.gov/32198292)), although other patient-specific factors (risk of cardiovascular events, gastrointestinal ulcers/bleeding, chronic kidney disease) should be considered.
 
+---
 
 ## Chloroquine/Hydroxychloroquine
 
@@ -601,6 +628,8 @@ See review: [Simpson, et al., ACC.org, 2020](https://www.acc.org/latest-in-cardi
 ### Monitoring
 + [ECG][Electrocardiography/Telemetry] (baseline QTc)
 + Consider telemetry
+
+---
 
 ## Azithromycin
 
