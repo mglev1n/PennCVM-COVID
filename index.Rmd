@@ -649,6 +649,17 @@ See review: [Simpson, et al., ACC.org, 2020](https://www.acc.org/latest-in-cardi
 + [ECG][Electrocardiography/Telemetry] (baseline QTc)
 + Consider telemetry
 
+## Statins
+
+### Potential Benefits
++ Statins may have an anti-inflammatory effect that blunts the immune response to acute viral infection ([Virani, ACC.org, 2020](https://www.acc.org/latest-in-cardiology/articles/2020/03/18/15/09/is-there-a-role-for-statin-therapy-in-acute-viral-infections-covid-19))
++ In preclinical models, statins upregulate ACE2 ([Tikoo, et al., Bichem Pharmacol, 2015](https://pubmed.ncbi.nlm.nih.gov/25482567)) - downregulation of ACE2 has been observed in ARDS, and restoring ACE2 levels may be a novel treatment strategy ([Wosten-van Aspersen, et al., Pediatr Crit Care Med, 2013](https://pubmed.ncbi.nlm.nih.gov/24226567)).
+
+### Recommendations
++ Overall, there is insufficient evidence to recommend initiation of statns soley for treatment of COVID-19 and/or ARDS
++ Statins should be continued in patients previously prescribed statins
++ Initiation of statins should be considered for patients with other indiciations (eg. known coronary artery disease, stroke, peripheral artery disease, diabetes, elevated 10-year risk of ASCVD)
+
 # Respiratory Considerations
 
 Hypoxia is a common lower respiratory manifestation of COVID-19, particularly among hospitalized patients, often with progression to acute respiratory distress syndrome (ARDS). Modalities to provide supplemental oxygenation and ventilation have consequences on the cardiovascular system, particularly among patients with underlying cardiovascular disease. Strategies for use of non-invasive and invasive mechanical ventilation in patients with COVID may be institution-specific based on equipement availability and staff expertise, in addition to COVID-specific considerations including expected disease trajectory and risks of aerosolization. The need for supplemental oxygenation/ventilation, basic management, and the hemodynamic consequences are reviewed here.
