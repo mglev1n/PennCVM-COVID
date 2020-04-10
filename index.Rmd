@@ -102,13 +102,14 @@ May occur directly as consequence of virus-associated [Acute Coronary Syndrome],
 + Must be differentiated from other causes of [Acute Cardiac Injury]
 
 ### Pathophysiology
-+ Myocardial ischemia as a consequence of atherothrombotic coronary artery disease (eg. plaque disruption; Type I MI), mismatch between oxygen supply and demand (Type II MI), in association with cardiac death (eg. Type III MI), related to percutaneous coronary intervention (Type IV MI), or associated with coronary artery bypass grafting (Type V MI)
++ Myocardial ischemia as a consequence of atherothrombotic coronary artery disease (eg. plaque disruption, plaque erosion, or thromboembolic phenomenon; Type I MI), mismatch between oxygen supply and demand (Type II MI), in association with cardiac death (eg. Type III MI), related to percutaneous coronary intervention (Type IV MI), or associated with coronary artery bypass grafting (Type V MI)
 
 
 ### Incidence
 + As of 3/2020, case reports of acute coronary syndromes (ACS) (Type 1 MI) in the setting of COVID-19 have yet to be published ([Driggin, et al., JACC, 2020](https://pubmed.ncbi.nlm.nih.gov/32201335)) 
 + Severe respiratory infection has been identified as a risk factor for acute myocardial infarction 
   + Incidence ratio [IR] 6.1, 95% CI 3.9-9.5 following influenza; IR 2.8, 95% CI 1.2–6.2 following non-influenza viral illness ([Kwong, et al., NEJM, 2018](https://pubmed.ncbi.nlm.nih.gov/29365305/))
++ One case of spontaneous coronary artery dissection (SCAD) reported in France ([Courand, JACC Cardiovascular Interventions, 2020](http://interventions.onlinejacc.org/content/early/2020/04/07/j.jcin.2020.04.006?_ga=2.88365791.519169919.1586356318-107115725.1506287003))
 
 ### Diagnostics
 + [Cardiac troponin, NT-proBNP][Cardiac Biomarkers], lipid screen, A1c
@@ -163,6 +164,7 @@ See [Szerlip, et al., Catheterization and Cardiovascular Interventions, 2020](ht
 ### Incidence
 + Myocarditis and pericarditis may be sources of acute cardiac injury based on case reports, overall incidence unclear ([Ruan et al, Intensive Care Med, 2020](http://www.ncbi.nlm.nih.gov/pubmed/32125452); [Zeng et al, Preprints, 2020](http://dx.doi.org/10.20944/preprints202003.0180.v1); [Hu et al, Eur Heart J, 2020](http://www.ncbi.nlm.nih.gov/pubmed/32176300); [Inciardi, et al., JAMA Cardiology 2020](https://pubmed.ncbi.nlm.nih.gov/32219357))
 + No clear evidence of myocarditis on limited cardiac biopsy [(Xu, et al., Lancet Respir Med, 2020)](https://pubmed.ncbi.nlm.nih.gov/32085846), but case reports have demonstrated evidence of myocarditis on MRI ([Inciardi et al., JAMA Cardiology 2020](https://pubmed.ncbi.nlm.nih.gov/32219357))
++ Limited autopsy series of 4 patients from New Orleans demonstrated scattered, individual-cell myocyte necrosis, without viral cytopathic effect, with adjacent (but not surrounding) lymphocytes, not clearly consistent with myocarditis ([Fox, et al., medRxiv, 2020](https://doi.org/10.1101/2020.04.06.20050575))
 
 ### Clinical Presentation
 Myo/Pericarditis may present with a broad spectrum and severity of symptoms including chest pain, palpitations, tachycardia/bradycardia, elevated cardiac biomarkers, or acute-onset heart failure with cardiogenic shock.  
@@ -190,6 +192,7 @@ Myo/Pericarditis may present with a broad spectrum and severity of symptoms incl
 + Mild thrombocytopenia (platelets 100-150) in 20% (n = 13) ([Fan, et al., American Journal of Hematology, 2020](https://pubmed.ncbi.nlm.nih.gov/32129508))
 + Coagulopathy in 34.1% (n = 42) ([Guo, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32219356))
 + Coagulopathy (defined as 3-second extension of PT or a 5-second extension of aPTT) in 19% (n = 37) ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/))  
++ Antiphospholipid antibodies were detected in 3 patients with coagulopathy and thromboembolic manifestations as reported in a case report from China ([Zhang, et al., NEJM, 2020](https://pubmed.ncbi.nlm.nih.gov/32268022))
 
 ### Diagnostics
 + [CBC with differential, D-dimer, PT/INR, aPTT, fibrinogen, peripheral smear][Coagulation Biomarkers]
@@ -716,6 +719,9 @@ knitr::include_graphics("images/Ventilation-Hemodynamics.jpg", dpi = 300)
 
 __UPHS COVID-19 Sharepoint__  
 http://accesspoint.uphs.upenn.edu/sites/preparedness/coronavirus
+
+__UPHS COVID-19 Education Resources__  
+https://www.med.upenn.edu/uphscovid19education/
 
 __UPHS COVID-19 Treatment Guidelines__  
 http://www.uphs.upenn.edu/antibiotics/COVID19.html
