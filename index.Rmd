@@ -117,7 +117,7 @@ May occur directly as consequence of virus-associated [Acute Coronary Syndrome],
 + Consider [limited echocardiogram][Echocardiography]  
 
 ### Treatment Considerations (SCAI Guidelines)
-See [Szerlip, et al., Catheterization and Cardiovascular Interventions, 2020](https://pubmed.ncbi.nlm.nih.gov/32212409), summarized below:  
+See [Szerlip, et al., Catheterization and Cardiovascular Interventions, 2020](https://pubmed.ncbi.nlm.nih.gov/32212409) and [Welt, et al., JACC, 2020](http://www.onlinejacc.org/content/early/2020/03/16/j.jacc.2020.03.021), summarized below:  
 
 #### STEMI
 + Primary PCI for ___high risk___ patients (anterior location, hypotension, elevated Killip class, cardiogenic shock, life-threatening, delayed presentation >12 hours)
