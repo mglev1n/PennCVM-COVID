@@ -117,6 +117,9 @@ May occur directly as consequence of virus-associated [Acute Coronary Syndrome],
 + Consider [limited echocardiogram][Echocardiography]  
 
 ### Treatment Considerations (SCAI Guidelines)
+
+See [Penn Tenecteplase Pathway for ST- Elevation Myocardial Infarction ](https://upenn.app.box.com/s/20xv7l5k5px698axkffpgb7pan2eb4la)  
+
 See [Szerlip, et al., Catheterization and Cardiovascular Interventions, 2020](https://pubmed.ncbi.nlm.nih.gov/32212409) and [Welt, et al., JACC, 2020](http://www.onlinejacc.org/content/early/2020/03/16/j.jacc.2020.03.021), summarized below:  
 
 #### STEMI
@@ -193,6 +196,7 @@ Myo/Pericarditis may present with a broad spectrum and severity of symptoms incl
 + Coagulopathy in 34.1% (n = 42) ([Guo, et al., JAMA Cardiology, 2020](https://pubmed.ncbi.nlm.nih.gov/32219356))
 + Coagulopathy (defined as 3-second extension of PT or a 5-second extension of aPTT) in 19% (n = 37) ([Zhou, et al., Lancet, 2020](https://pubmed.ncbi.nlm.nih.gov/32171076/))  
 + Antiphospholipid antibodies were detected in 3 patients with coagulopathy and thromboembolic manifestations as reported in a case report from China ([Zhang, et al., NEJM, 2020](https://pubmed.ncbi.nlm.nih.gov/32268022))
++ Among ICU patients, thromboembolic events were common, occuring among 31% (most commonly pulmonary embolism) despite use of prophylaxis-dose low molecular weight heparin ([Klok, et al., Thrombosis Research, 2020](https://www.thrombosisresearch.com/article/S0049-3848(20)30120-1/pdf))
 
 ### Diagnostics
 + [CBC with differential, D-dimer, PT/INR, aPTT, fibrinogen, peripheral smear][Coagulation Biomarkers]
@@ -275,6 +279,8 @@ Hyperinflammatory syndrome characterised by macrophage activation and fulminant 
 # Cardiovascular Testing Considerations
 
 ## Electrocardiography/Telemetry
+
+See [Penn QTc Monitoring Pathway](https://upenn.box.com/s/2zlxcde9uufucb81olegh9harigsgiio)
 
 ### Indications
 + Evaluate COVID-19-associated cardiovascular complications, including [Acute Cardiac Injury], [Acute Coronary Syndrome], [Arrhythmia], [Myo/Pericarditis], cardiac injury related to [Cytokine Release][Secondary Hemophagocytic Lymphohistiocytosis/Cytokine Release], or [Cardiomyopathy/Heart Failure/Cardiogenic Shock]  
